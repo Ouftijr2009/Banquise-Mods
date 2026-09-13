@@ -1,6 +1,7 @@
 {
   "minecraft_version": "1.21.1",
-  "neoforge_version": "21.1.100",
+  "mod_loader": "fabric",
+  "loader_version": "0.17.2",
   "mods": [
     {
       "file": "cloth-config-15.0.140-fabric.jar",
