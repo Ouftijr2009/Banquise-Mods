@@ -1,236 +1,56 @@
 {
   "minecraft_version": "1.21.1",
-  "neoforge_version": "21.1.235",
+  "neoforge_version": "21.1.100",
   "mods": [
     {
-      "file": "aeroadditionbridge-1.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/aeroadditionbridge-1.0.0.jar",
-      "sha1": "2c07cac8ab9205b03bd3189916cb6dd48b685caa"
+      "file": "cloth-config-15.0.140-fabric.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/cloth-config-15.0.140-fabric.jar",
+      "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
     },
     {
-      "file": "aerocopycats-1.1.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/aerocopycats-1.1.1.jar",
-      "sha1": "3a93862421d0a8cdae1e3a3d7f0d4bd01e049007"
+      "file": "fabric-api-0.116.17+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/fabric-api-0.116.17+1.21.1.jar",
+      "sha1": "810b2b0195371a012906241d8b85a32a1d6de53c"
     },
     {
-      "file": "better_lib-neoforge-1.21.1-1.0.109.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/better_lib-neoforge-1.21.1-1.0.109.jar",
-      "sha1": "8437f2f2f8292752af3ccae1bf6526db1ed87b8b"
+      "file": "fabric-carpet-1.21-1.4.147+v240613.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/fabric-carpet-1.21-1.4.147+v240613.jar",
+      "sha1": "54f2907d83e67283d165336f26e5219d4bd36037"
     },
     {
-      "file": "big_cannons_aeronautics_fix-0.1-Alpha.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/big_cannons_aeronautics_fix-0.1-Alpha.jar",
-      "sha1": "172c54c30d0e1ac2a208c59e1c59892202ec7f0e"
+      "file": "InvMove-0.9.3+1.21.1-Fabric.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/InvMove-0.9.3+1.21.1-Fabric.jar",
+      "sha1": "87c3fc1519f31e17c6ad27b108a3a3304d52a5f9"
     },
     {
-      "file": "CBC-Military-Supplement-1.21.1-2.1.0.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/CBC-Military-Supplement-1.21.1-2.1.0.jar",
-      "sha1": "4631f67f4222040f7802c076fff26b70e403a0ce"
+      "file": "modmenu-11.0.4.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/modmenu-11.0.4.jar",
+      "sha1": "8af1b0b9ee18eab5cd5e5c97c497f0e473c49e9a"
     },
     {
-      "file": "cbc_ballistics-1.3.0a-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/cbc_ballistics-1.3.0a-neoforge-1.21.1.jar",
-      "sha1": "2d7f76236ca4878bcf4bb87024a8bffe6e25c49e"
+      "file": "placeholder-api-2.4.2+1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/placeholder-api-2.4.2+1.21.jar",
+      "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3"
     },
     {
-      "file": "cbc_firepower_components-neoforge-1.21.1-0.2.0+mc.1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/cbc_firepower_components-neoforge-1.21.1-0.2.0+mc.1.21.1-neoforge.jar",
-      "sha1": "4bf7bb2a57d1bc269782d2fce8b35403137adc16"
+      "file": "ratatouille-1.4.3-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/ratatouille-1.4.3-1.21.1.jar",
+      "sha1": "90c882bbe843040169191bc8339aa60780129eeb"
     },
     {
-      "file": "cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/cbcmodernwarfare-0.0.6v+mc.1.21.1-neoforge.jar",
-      "sha1": "c8cd9d1fd4a3913f7f453b397fcc5ef36aec4749"
+      "file": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
+      "sha1": "07d9f758338ad5be38b7fa1eb32c71a7c4840ea0"
     },
     {
-      "file": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar",
-      "sha1": "6a11d5806bcf521e08faba1ee6ef5f31af55ca0f"
+      "file": "voicechat-fabric-1.21.1-2.6.22.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/voicechat-fabric-1.21.1-2.6.22.jar",
+      "sha1": "2b3f229ed746955b756807a92e09e9a32d636776"
     },
     {
-      "file": "create-1.21.1-6.0.10.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/create-1.21.1-6.0.10.jar",
-      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353"
-    },
-    {
-      "file": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
-      "sha1": "a2b08963ebc9f331f52c626aebcd65013e100d69"
-    },
-    {
-      "file": "create_aero_radar-0.1.1-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/create_aero_radar-0.1.1-1.21.1.jar",
-      "sha1": "1e06a12c5e257eebb2fef971b02d3593d8d51b52"
-    },
-    {
-      "file": "create_connected-1.3.2-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/create_connected-1.3.2-mc1.21.1.jar",
-      "sha1": "920de05b13c32fe1417d0aec0615057aa480cc8d"
-    },
-    {
-      "file": "create_mixed_casing-1.21.1-1.1.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/create_mixed_casing-1.21.1-1.1.1.jar",
-      "sha1": "3eb6a839d3fc192f17f465065a07a4263d1944f5"
-    },
-    {
-      "file": "create_no_touching-1.0.8Neo-Aeronautics.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/create_no_touching-1.0.8Neo-Aeronautics.jar",
-      "sha1": "967d82b0ca44c30b5a8b25b8b6f967e868776dde"
-    },
-    {
-      "file": "create_radar-0.4.9.4-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/create_radar-0.4.9.4-1.21.1.jar",
-      "sha1": "9726fced4bf86c9e2c0ea09b35bc39ed3ac007b6"
-    },
-    {
-      "file": "create_simulated_additions-0.2.3-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/create_simulated_additions-0.2.3-neoforge-1.21.1.jar",
-      "sha1": "6f622a8fb81fdcfc0c6e9f692c089eb534f868d4"
-    },
-    {
-      "file": "create_submarine-2.2.4.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/create_submarine-2.2.4.jar",
-      "sha1": "fb4902c2ca3463ea3016efbae7011408eb008d89"
-    },
-    {
-      "file": "createaddition-1.6.0.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/createaddition-1.6.0.jar",
-      "sha1": "87b539d41ed238e98b26c607c0c81a973323147e"
-    },
-    {
-      "file": "CreateAeronauticsCopycatWing-1.21.1-1.0.2.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/CreateAeronauticsCopycatWing-1.21.1-1.0.2.jar",
-      "sha1": "0e4c37b6327917984dea0885c6ced8341b556568"
-    },
-    {
-      "file": "createbigcannons-5.11.7+mc.1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/createbigcannons-5.11.7+mc.1.21.1.jar",
-      "sha1": "c90ee0b2142e2c58d233e150cb3a24c7cb07eb2d"
-    },
-    {
-      "file": "createdeco-2.1.3.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/createdeco-2.1.3.jar",
-      "sha1": "93d9eff58b46c6953e907d071e6be4e3ce07be38"
-    },
-    {
-      "file": "createdieselgenerators-1.21.1-1.3.14.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/createdieselgenerators-1.21.1-1.3.14.jar",
-      "sha1": "565e9014912b8692ff8866be17dd739505062374"
-    },
-    {
-      "file": "createendertransmission-2.1.1-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/createendertransmission-2.1.1-1.21.1.jar",
-      "sha1": "fbf165d068a3a9c6d24f1bcf68fb1af380ee2603"
-    },
-    {
-      "file": "createpropulsion-1.1.4.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/createpropulsion-1.1.4.jar",
-      "sha1": "ab3a032dc6d3ccddeb9b5423ae01c3e34b2ee26e"
-    },
-    {
-      "file": "Design-n-Decor-1.21.1-2.2b.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/Design-n-Decor-1.21.1-2.2b.jar",
-      "sha1": "ff5f0411a3d82e15d69b65617128f6d54e818e1b"
-    },
-    {
-      "file": "drivebywire-0.3.0.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/drivebywire-0.3.0.jar",
-      "sha1": "217cb078513ba01d542d3665ed7271af1f270ecb"
-    },
-    {
-      "file": "drivebywire-typewriter-1.1.0-beta.2.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/drivebywire-typewriter-1.1.0-beta.2.jar",
-      "sha1": "9c4fb483428e3486d71a5c35e230463d20e87024"
-    },
-    {
-      "file": "geckolib-neoforge-1.21.1-4.9.2.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/geckolib-neoforge-1.21.1-4.9.2.jar",
-      "sha1": "14c64013cadee7d28f3685f94350f9a4d2ec6d86"
-    },
-    {
-      "file": "GnKinetics-1.21.1-1.0m.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/GnKinetics-1.21.1-1.0m.jar",
-      "sha1": "15cc60c8864ac8b5329723a55a97a548980611de"
-    },
-    {
-      "file": "jei-1.21.1-neoforge-19.27.0.336.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/jei-1.21.1-neoforge-19.27.0.336.jar",
-      "sha1": "d02c849e4e321e7b056a48e0242ec641560c2ab8"
-    },
-    {
-      "file": "journeymap-neoforge-1.21.1-6.0.0.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/journeymap-neoforge-1.21.1-6.0.0.jar",
-      "sha1": "40f8124b68c778b53d4037e604e9a29b8fe1be6d"
-    },
-    {
-      "file": "kotlinforforge-5.12.0-all.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/kotlinforforge-5.12.0-all.jar",
-      "sha1": "a2032c921e93a0ccb0db5d742167e3139c2de01b"
-    },
-    {
-      "file": "moonlight-neoforge-1.21.1-3.0.22.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/moonlight-neoforge-1.21.1-3.0.22.jar",
-      "sha1": "98f1a1ca3e51d73cae5187a21dec4d0e153c4f01"
-    },
-    {
-      "file": "petrolpark-1.21.1-1.4.36.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/petrolpark-1.21.1-1.4.36.jar",
-      "sha1": "9c2e66276896d6eb3f751fd461fa33a45c011695"
-    },
-    {
-      "file": "petrolsparts-1.21.1-1.2.10.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/petrolsparts-1.21.1-1.2.10.jar",
-      "sha1": "d228f81fb8d9f9501f0077bcbe6b62852eccf0a1"
-    },
-    {
-      "file": "prone_was_pressed-1.0.0-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/prone_was_pressed-1.0.0-neoforge-1.21.1.jar",
-      "sha1": "684be42d92dc90a5848d04fc685cc890485c1ff2"
-    },
-    {
-      "file": "railways-0.2.1+neoforge-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/railways-0.2.1+neoforge-mc1.21.1.jar",
-      "sha1": "f2d71927ef504b597a6c992d02118c1e6ee6e369"
-    },
-    {
-      "file": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
-      "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765"
-    },
-    {
-      "file": "s_a_b-1.4.3-neoforge-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/s_a_b-1.4.3-neoforge-1.21.1.jar",
-      "sha1": "7a73d69b83d2a4b217a4cccaf142bbd5793f6ae8"
-    },
-    {
-      "file": "sable-neoforge-1.21.1-2.0.3.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/sable-neoforge-1.21.1-2.0.3.jar",
-      "sha1": "f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756"
-    },
-    {
-      "file": "skinrestorer-2.10.0+1.21-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/skinrestorer-2.10.0+1.21-neoforge.jar",
-      "sha1": "ea72bb25debbfc74b9486cb9d0fcb814ee5c6323"
-    },
-    {
-      "file": "tfmg-1.2.0.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/tfmg-1.2.0.jar",
-      "sha1": "b520f3687f60a69eb265ff5b9a16759b9e124103"
-    },
-    {
-      "file": "tracks-neoforge-1.21.1-1.0.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/tracks-neoforge-1.21.1-1.0.1.jar",
-      "sha1": "cccd208606d7ac33f483e1e8a237092712a1a2c0"
-    },
-    {
-      "file": "vista-neoforge-1.21.1-5.1.0.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/vista-neoforge-1.21.1-5.1.0.jar",
-      "sha1": "b5a5d6de1a3a0e2efd77703941c7a9c47fc13575"
-    },
-    {
-      "file": "worldedit-mod-7.3.8.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/worldedit-mod-7.3.8.jar",
-      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250"
+      "file": "wathe-1.4.1-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/wathe-1.4.1-1.21.1.jar",
+      "sha1": "03cc89906b635d11a617d59396dfe6214138ef14"
     }
   ]
 }
