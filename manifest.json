@@ -2213,5 +2213,807 @@
       "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/mods-109841b27f4349e181b36aa2700cf1d9/mod-0441.jar",
       "sha1": "7e1b7b1fcf2e0e7dd55f4131b2d49b8df1fc0a2f"
     }
+  ],
+  "resourcepacks": [
+    {
+      "file": "12_Prominence_2_IrCh.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0000.zip",
+      "sha1": "01ca1ad7b989e98dd370a5e4edc0cf489f2ec5a6"
+    },
+    {
+      "file": "[1.6] Enhanced Boss Bars.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0001.zip",
+      "sha1": "0c4978ce9daa8343189cffb55f0ad0f096718f50"
+    },
+    {
+      "file": "Ad_astra-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0002.zip",
+      "sha1": "0a7fc7195edc7896aea588cd8928bffc138aa40a"
+    },
+    {
+      "file": "Adventurez-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0003.zip",
+      "sha1": "0054ab745c0e57d3128ed1145aedd197b65701c9"
+    },
+    {
+      "file": "Adventurez-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0004.zip",
+      "sha1": "a90dab1b776cd28f3e68b047fcabafde8cd2fb80"
+    },
+    {
+      "file": "Ae2wtlib-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0005.zip",
+      "sha1": "14eb14a125e8933c3f095abe20cc5b9c66223b4c"
+    },
+    {
+      "file": "Appbot-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0006.zip",
+      "sha1": "ea208d471fa8b17918857b058fd303e8e7368401"
+    },
+    {
+      "file": "ArchersExpansion-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0007.zip",
+      "sha1": "1f5a072112f50bb9020792e51818af62c0c553e5"
+    },
+    {
+      "file": "Archon Reforged.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0008.zip",
+      "sha1": "4d60b9bdb389e71febf85c3d8b311c84e49274c4"
+    },
+    {
+      "file": "Archon-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0009.zip",
+      "sha1": "8231620e0f0a6798f14ecebe7a99b50d64c6d494"
+    },
+    {
+      "file": "Archon-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0010.zip",
+      "sha1": "94369f6c5ce013be7e6c2ba0231c662d0dd231b9"
+    },
+    {
+      "file": "Artifacts-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0011.zip",
+      "sha1": "89c72e51bbac98a32d9016e28d482ddd31764179"
+    },
+    {
+      "file": "Ashen AlloyForgery Support.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0012.zip",
+      "sha1": "8fdf595fb607ae271e92510193475e8287d7f915"
+    },
+    {
+      "file": "Ashen Betternether Items Support.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0013.zip",
+      "sha1": "82db582c611d008e7524ec8c74453404b8cb1d0c"
+    },
+    {
+      "file": "Ashen Build Wands Support.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0014.zip",
+      "sha1": "0d0e30b1c720a34d77a63fbeab210924d462da75"
+    },
+    {
+      "file": "Ashen FriendsFoes Support.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0015.zip",
+      "sha1": "d8333cf809f944c15a9ac2442275c4a6215638ab"
+    },
+    {
+      "file": "Ashen JustHammers Support.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0016.zip",
+      "sha1": "e902326fead68388c25981331c584872989fdb52"
+    },
+    {
+      "file": "Ashen Oxidized Support.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0017.zip",
+      "sha1": "f9f1310dd9ac33fee56cc33706acfe586d263c88"
+    },
+    {
+      "file": "Ashen_16x.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0018.zip",
+      "sha1": "04d907f20af7deaf87d2d8a6f68d57d21802587c"
+    },
+    {
+      "file": "Ashen_Advanced_Netherite_Support_1.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0019.zip",
+      "sha1": "e2b21aa7f5dad3e2a1f0da59e597cf159aa83a53"
+    },
+    {
+      "file": "Ashen_Better_End_Support_1.1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0020.zip",
+      "sha1": "48a3bed1ac69c9f373b80f1baa4ded7078c5b78f"
+    },
+    {
+      "file": "Ashen_Custom_Mobs.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0021.zip",
+      "sha1": "eddfe6d9417a312fb86c4081c184a8b378b04957"
+    },
+    {
+      "file": "Ashen_Custom_Mobs_x_Fresh_Animations.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0022.zip",
+      "sha1": "4f6c9780caf6438b834987371322049ffd64212e"
+    },
+    {
+      "file": "Ashen_Eating_Animation_Support_1.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0023.zip",
+      "sha1": "28f86fc1f4c7c8377d9719b916f4d8cba1ab379d"
+    },
+    {
+      "file": "Ashen_Eldritch_End_Support_1.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0024.zip",
+      "sha1": "482bdbece6ddcc18668f57f4aeb12a5e4b9ae76a"
+    },
+    {
+      "file": "Ashen_Lets_Do_Support_1.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0025.zip",
+      "sha1": "2346e672a6946f217b6f00e4f47c9de7b63a90a2"
+    },
+    {
+      "file": "Ashen_Mod_Compatibility.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0026.zip",
+      "sha1": "5b45c12f5431a53938c94b57f8b00183ad0d66e6"
+    },
+    {
+      "file": "Ashen_Prominence_OST_Support.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0027.zip",
+      "sha1": "e9fff4edf6e2278990dac5f1a6ac893bb86b0ae6"
+    },
+    {
+      "file": "Ashen_Regions_Unexplored_Support_1.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0028.zip",
+      "sha1": "7e6d7165bad374ca57e46569b532bb920321991b"
+    },
+    {
+      "file": "Ashen_Simple_Foliage.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0029.zip",
+      "sha1": "7e0d7abcaa13ce24723cf73cb558454bb0a3e7c7"
+    },
+    {
+      "file": "Ashen_Visuality_Support_1.1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0030.zip",
+      "sha1": "c936e15570f23ad242efe37f019ef992a873409e"
+    },
+    {
+      "file": "Betterarcheology-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0031.zip",
+      "sha1": "82ab3da70e528f3dec0f214403f1470608385a8b"
+    },
+    {
+      "file": "Betterend-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0032.zip",
+      "sha1": "42df09ddac115a7403f140c4f901179f73fffcd3"
+    },
+    {
+      "file": "Betternether-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0033.zip",
+      "sha1": "9fc4be44d447235a66057213e1fc3199264f43a4"
+    },
+    {
+      "file": "betternether_x_ashen.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0034.zip",
+      "sha1": "d5b525a0758504f642258d69257e8cd3685768b2"
+    },
+    {
+      "file": "Blades Of Majestica Prominence.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0035.zip",
+      "sha1": "4dc16a96a10a643939a201343a26104ae3e86dc0"
+    },
+    {
+      "file": "Bosses_of_mass_destruction-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0036.zip",
+      "sha1": "be72308e60dad2466506546b578fbf14469ab17f"
+    },
+    {
+      "file": "Brewery-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0037.zip",
+      "sha1": "96bf8d60f8c5cc08b415aa0eb7d0af793c799700"
+    },
+    {
+      "file": "Convenientdecor-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0038.zip",
+      "sha1": "634646ec66adaa4fd3d5ff16c97359c050acc862"
+    },
+    {
+      "file": "Convenientdecor-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0039.zip",
+      "sha1": "94fb5c1d6c033347d088c9b0374d92faeec1002a"
+    },
+    {
+      "file": "Copycats-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0040.zip",
+      "sha1": "897da142143680f33f23801ad86c1d80aa7ca618"
+    },
+    {
+      "file": "Create_Applied_Energistics_2.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0041.zip",
+      "sha1": "69d11e76d636a372f08a314d28624edd855eecae"
+    },
+    {
+      "file": "Create_new_age-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0042.zip",
+      "sha1": "f9736ab0e468c64418e1794e04b2a692df7262dc"
+    },
+    {
+      "file": "Createaddition-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0043.zip",
+      "sha1": "b4de8097cf159dcb3ae3ae1b6738f85c4c9175bf"
+    },
+    {
+      "file": "Croptopia-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0044.zip",
+      "sha1": "57b250be9244f72d12538e796ff859f4bd87172b"
+    },
+    {
+      "file": "Darkutils-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0045.zip",
+      "sha1": "521a6a72386799356e358a0508c2122bcfad5938"
+    },
+    {
+      "file": "Death_knights-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0046.zip",
+      "sha1": "4f31a1a7e45817c979b361b97b33087068311853"
+    },
+    {
+      "file": "DeathKnights-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0047.zip",
+      "sha1": "84e61903a5cd04df1d2b7dc598f29cd5523ff586"
+    },
+    {
+      "file": "Decorative_blocks-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0048.zip",
+      "sha1": "5b6bd8d4620fc10d078d6e6fd1482528bcc93b53"
+    },
+    {
+      "file": "Deeperdarker-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0049.zip",
+      "sha1": "722e96102487e1a420bb02e463d7f0eb63b69c55"
+    },
+    {
+      "file": "Derelict Arachnofobia.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0050.zip",
+      "sha1": "be301901f19aeb15a9e4271ca0efcf26c422c2e7"
+    },
+    {
+      "file": "Derelict-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0051.zip",
+      "sha1": "09a460fc9d2486740fef3c2ffa774b03eca2f04e"
+    },
+    {
+      "file": "Eldritch_end-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0052.zip",
+      "sha1": "968cb518d4ba4dcdc604895785955a58ecafd0b5"
+    },
+    {
+      "file": "Ends_delight-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0053.zip",
+      "sha1": "dafb0149fc40df0b6dd53063db371660d5245a53"
+    },
+    {
+      "file": "Estrogen-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0054.zip",
+      "sha1": "4f104d95dff3c38310e475d6a872b8dbef8c0e19"
+    },
+    {
+      "file": "Expandeddelight-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0055.zip",
+      "sha1": "d0769c78532402671c26e17c50cf3d5d9387f7fb"
+    },
+    {
+      "file": "Farmersknives-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0056.zip",
+      "sha1": "14919555f13a40f3a99aa68d584f98a510c2e88b"
+    },
+    {
+      "file": "FreshAnimations_v1.9.2.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0057.zip",
+      "sha1": "ff18e6a762b87d7e8bad0726ac7d9c153306c6d2"
+    },
+    {
+      "file": "Frostiful-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0058.zip",
+      "sha1": "1cf1b4f18d276c4050af279d68c1ae1ca2d8aac1"
+    },
+    {
+      "file": "Frostiful-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0059.zip",
+      "sha1": "e7939d18b6c1af0346c759d8c50d02ecf34bc46a"
+    },
+    {
+      "file": "Frosty-Deathchill.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0060.zip",
+      "sha1": "63393f8bb5148b99a03099ca5c636e20f090a74d"
+    },
+    {
+      "file": "Fwaystones-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0061.zip",
+      "sha1": "dae001064902aadba22f50d49475d5dc3e27be75"
+    },
+    {
+      "file": "Grassoverhaul-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0062.zip",
+      "sha1": "884420d1bfe8dd81cddad1f0519685b894b85627"
+    },
+    {
+      "file": "Graveyard-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0063.zip",
+      "sha1": "9f6de043579a0b6b5a99f53d37cefc509e4fb512"
+    },
+    {
+      "file": "Handcrafted-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0064.zip",
+      "sha1": "25c79600cf7d58900b900ac145fc6118f748acff"
+    },
+    {
+      "file": "Herbalbrews-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0065.zip",
+      "sha1": "22e0b0cb4a44081180783ab6aa1de2819c75bc67"
+    },
+    {
+      "file": "Herbalbrews-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0066.zip",
+      "sha1": "7a9c5b26c0d2a14d12908ec46a249f1503dbe47b"
+    },
+    {
+      "file": "HTP-Accessories-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0067.zip",
+      "sha1": "e52556964d5a650cf903c3f274ca13bca3399dc9"
+    },
+    {
+      "file": "HTP-Alloy_forgery-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0068.zip",
+      "sha1": "6e1cb9ef1b4e72d6c61075a864d3db0c2e5d51b3"
+    },
+    {
+      "file": "HTP-Amendments-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0069.zip",
+      "sha1": "20d01c80d71fb0993f8ddd265b38bea80918c08d"
+    },
+    {
+      "file": "HTP-Applied energistics 2-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0070.zip",
+      "sha1": "cabb8a001066dfd968afb7b52fa387c1a25e696e"
+    },
+    {
+      "file": "HTP-Archers_expansion-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0071.zip",
+      "sha1": "0400a26719a1f487e840ed35db7a55c86e4145fc"
+    },
+    {
+      "file": "HTP-Betterarcheology-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0072.zip",
+      "sha1": "732b226f0888c5a0f4ddc95d2248432796186a37"
+    },
+    {
+      "file": "HTP-Betterendisland-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0073.zip",
+      "sha1": "fbeaaf317afcb899eb3150539789ab77279ee322"
+    },
+    {
+      "file": "HTP-Betterfortresses-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0074.zip",
+      "sha1": "521cb8d85bb590df0801858f10af1ec873ac8327"
+    },
+    {
+      "file": "HTP-Create steam n rails-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0075.zip",
+      "sha1": "b15dfaee6c6fb89653ee3b3f75dee57e56dc5be7"
+    },
+    {
+      "file": "HTP-Croptopia-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0076.zip",
+      "sha1": "685dff5f524aa64259a0d4ac314e7444847965b7"
+    },
+    {
+      "file": "HTP-Eldritch_end-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0077.zip",
+      "sha1": "ac542c0b1296f4166748ffcfa12cccf096a1d9e1"
+    },
+    {
+      "file": "HTP-Extendedae-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0078.zip",
+      "sha1": "6ba22030873059a195507df3f903d079c78a0b9e"
+    },
+    {
+      "file": "HTP-Grassoverhaul-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0079.zip",
+      "sha1": "b073904b12d162a95d12a30b8a8c74ab2f2fbce1"
+    },
+    {
+      "file": "HTP-Graveyard-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0080.zip",
+      "sha1": "4de824ce564aae4634d47b3fa3fb7892f4a388f6"
+    },
+    {
+      "file": "HTP-Handcrafted-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0081.zip",
+      "sha1": "251dbf0052b49d745791e9f94c3227a111621c70"
+    },
+    {
+      "file": "HTP-Icarus-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0082.zip",
+      "sha1": "06ea553875e038b57e8a987efa172e4fc4cf70b7"
+    },
+    {
+      "file": "HTP-Industrial revolution-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0083.zip",
+      "sha1": "8e5b10277ef0f164fa4ac99e1529c30754e20ed8"
+    },
+    {
+      "file": "HTP-Invoke-TranslationPack-vunknown.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0084.zip",
+      "sha1": "56f0fd0ce806720b9bec543db31336a9504f07de"
+    },
+    {
+      "file": "HTP-Macaw's holidays-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0085.zip",
+      "sha1": "03fa39d81229057e742f35e76a0b4c04f56c3ed2"
+    },
+    {
+      "file": "HTP-Magnumtorch-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0086.zip",
+      "sha1": "5be25c42963996fe736593520b291ca627adcce7"
+    },
+    {
+      "file": "HTP-Mcda-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0087.zip",
+      "sha1": "0542823853432f99907c75f39ad2747b7ecdbad8"
+    },
+    {
+      "file": "HTP-Mcdw-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0088.zip",
+      "sha1": "1f917c360402f674954b171f45987c0d48335ae2"
+    },
+    {
+      "file": "HTP-Megacells-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0089.zip",
+      "sha1": "76d3661ea66308fa74c3d1cdb9f4bb56705fbcfb"
+    },
+    {
+      "file": "HTP-Minecells-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0090.zip",
+      "sha1": "7c4cfbc66c14f4b46446bb11383f2378532b1ebd"
+    },
+    {
+      "file": "HTP-Modern industralization-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0091.zip",
+      "sha1": "84fb1ee6aa18362c510c8a243effd98fce767092"
+    },
+    {
+      "file": "HTP-More_rpg_classes-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0092.zip",
+      "sha1": "91469667d79953aa295feef729fa169e89bdc856"
+    },
+    {
+      "file": "HTP-Mutant monsters-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0093.zip",
+      "sha1": "c069d14b0f4bde1e1ea89f6894b86a96d85bebdf"
+    },
+    {
+      "file": "HTP-Mythic upgrade-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0094.zip",
+      "sha1": "63aad264f1d2ea5d1367fc0c1f3265d868fd99aa"
+    },
+    {
+      "file": "HTP-Nether depths upgrade-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0095.zip",
+      "sha1": "d0c56d0917f785315f1b81222c05de9b79f1274c"
+    },
+    {
+      "file": "HTP-Oxidized-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0096.zip",
+      "sha1": "653975d64f29109becd71f8e6039c1cb2d91dde7"
+    },
+    {
+      "file": "HTP-Promenade-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0097.zip",
+      "sha1": "0694969d0bcf4f4a03d2fe471bc2800a3d0643c0"
+    },
+    {
+      "file": "HTP-Spell_power-TranslationPack-vunknown.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0098.zip",
+      "sha1": "21ffa99ea8bd1ffeeba8596eae40b84378f2f748"
+    },
+    {
+      "file": "HTP-Spellblade and such-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0099.zip",
+      "sha1": "e342acac3f02f7e8848c1e4ea3832f5edfee5b9c"
+    },
+    {
+      "file": "HTP-Stoneworks-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0100.zip",
+      "sha1": "8a08608ed6fd8aece39185a64fd06606cdcabd17"
+    },
+    {
+      "file": "HTP-Thaumon-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0101.zip",
+      "sha1": "cf2ae6a9d07728c13c5148082b26ecbcdf22da32"
+    },
+    {
+      "file": "HTP-Things-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0102.zip",
+      "sha1": "6ba5d9af57f8771d53c099daea44f2e617086985"
+    },
+    {
+      "file": "HTP-Tierify-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0103.zip",
+      "sha1": "a40ac3e01ed6cfa7202776fab0815b71374e7e57"
+    },
+    {
+      "file": "HTP-Tradingpost-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0104.zip",
+      "sha1": "1d571c4def92b92e1224e47ec78ea2c11f1b1c71"
+    },
+    {
+      "file": "HTP-Twigs-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0105.zip",
+      "sha1": "f91977d0545b85e9d2323624eea494ecd0ddd356"
+    },
+    {
+      "file": "HTP-Windchimes-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0106.zip",
+      "sha1": "9c63b4226a288738b6e5738e4b8a795161db8866"
+    },
+    {
+      "file": "HTP-Winterly-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0107.zip",
+      "sha1": "a518efb927798340c753aac4292e627697850793"
+    },
+    {
+      "file": "HTP-Zenith_attributes-TranslationPack-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0108.zip",
+      "sha1": "047e11b86833fe7921a4986fb48a6b3c5bac9547"
+    },
+    {
+      "file": "Ironchests-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0109.zip",
+      "sha1": "ad0943b6169165b41ffd945c40e4ad93b85f2e4b"
+    },
+    {
+      "file": "Justhammers-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0110.zip",
+      "sha1": "ec9d4f570627bddd1a20f93bb9b6ceb19e2fc94a"
+    },
+    {
+      "file": "Justhammers-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0111.zip",
+      "sha1": "e9faad771dba860b58a7c7d0c037e4dab893556f"
+    },
+    {
+      "file": "Kibe-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0112.zip",
+      "sha1": "8a92700e25e992123df86d0dc0802a566688220c"
+    },
+    {
+      "file": "Mandala_x_Prominent_UI.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0113.zip",
+      "sha1": "278a5d380029638a8a191cce19b6023a484d8f11"
+    },
+    {
+      "file": "Mandalas_Legacy_Gui_Background.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0114.zip",
+      "sha1": "61916030e60de3119e1608c4b9ab94cf49a9b896"
+    },
+    {
+      "file": "Mcda-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0115.zip",
+      "sha1": "c2c0a7001d8cf70b9ffac8a8bfa010ef02c86a8f"
+    },
+    {
+      "file": "Mcdw-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0116.zip",
+      "sha1": "f3c91a013ffd1835b72d23bce609e6c8d93d0ec5"
+    },
+    {
+      "file": "Mcwholidays-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0117.zip",
+      "sha1": "0483e9af0911320d83a87005bc58616b42eee310"
+    },
+    {
+      "file": "Megacells-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0118.zip",
+      "sha1": "1b13fb66efebeb6801100248772a9956231170ad"
+    },
+    {
+      "file": "Merequester-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0119.zip",
+      "sha1": "eb1e63d76b958aa7f5bd4be3f1f79491f6a70331"
+    },
+    {
+      "file": "MobsOfMythology-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0120.zip",
+      "sha1": "d360dd7220d26cdcaa2222a44b7382102d9e1dc7"
+    },
+    {
+      "file": "MoreRpgClasses-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0121.zip",
+      "sha1": "fc13db0a2b5c83c51d689a88684b7db7bc609692"
+    },
+    {
+      "file": "Mythicmounts-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0122.zip",
+      "sha1": "c87f49f87df050a27ee16949d7f12005e7dd4c57"
+    },
+    {
+      "file": "Mythicmounts-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0123.zip",
+      "sha1": "5e86758c4e26890f74f3ca0bb62c794e18310612"
+    },
+    {
+      "file": "Mythicupgrades-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0124.zip",
+      "sha1": "906e80efba54137995c9d657e590431f22bc47ac"
+    },
+    {
+      "file": "Mythicupgrades-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0125.zip",
+      "sha1": "9549f338f866ed18a709dd6a6f8daaf7c5d3fdd7"
+    },
+    {
+      "file": "Naturalist-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0126.zip",
+      "sha1": "27a2afd4e94d7cbeb7d05981e8159ca22154aa4c"
+    },
+    {
+      "file": "NoBushyLeaves.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0127.zip",
+      "sha1": "6ee67a5199bc4d61da3c1fcab5ba7d9340731d2b"
+    },
+    {
+      "file": "Oceansdelight-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0128.zip",
+      "sha1": "5fc2d47ff278b99eaad95f0950b5e1321ed928e0"
+    },
+    {
+      "file": "Only Excavators - Ashen AddOn.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0129.zip",
+      "sha1": "67a3f6f28be2c22ed9156766c1fa9d68666d2484"
+    },
+    {
+      "file": "Oxidized-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0130.zip",
+      "sha1": "ef373aee349a1c07cca6a26d508e58959f158fa3"
+    },
+    {
+      "file": "Paladins-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0131.zip",
+      "sha1": "5e3918b7467ecfe8448ec7033b42df9bf8d6c682"
+    },
+    {
+      "file": "Philipsruins-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0132.zip",
+      "sha1": "dad4342365f1d8cee0cb72c97615de55f8ea5160"
+    },
+    {
+      "file": "Philipsruins-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0133.zip",
+      "sha1": "42352514dbf3551933188050db10b65007ed947a"
+    },
+    {
+      "file": "Powah-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0134.zip",
+      "sha1": "84bda7c4003ebc73391acb6b7588967f84cf0523"
+    },
+    {
+      "file": "Promenade-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0135.zip",
+      "sha1": "f4c07bec6599bae91d6251b60f27a9ad3ff5ca5e"
+    },
+    {
+      "file": "Prominence-Custom-Lootr.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0136.zip",
+      "sha1": "7c06954da01e05a21219fd287017a730d7169462"
+    },
+    {
+      "file": "ProminenceFancyServerListing.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0137.zip",
+      "sha1": "3155d0d67013ba07c3a14d80e2d0fb144de28944"
+    },
+    {
+      "file": "Prominent-UI-1.20.1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0138.zip",
+      "sha1": "1aff53493a964821e0a050a9bb08f86b114720fc"
+    },
+    {
+      "file": "Quartzelv-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0139.zip",
+      "sha1": "7056b4ab15c4af98e8170d4197bc27c405635b67"
+    },
+    {
+      "file": "railways-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0140.zip",
+      "sha1": "7c505800b8be5ddb233dc639b4b6458ee72f26a0"
+    },
+    {
+      "file": "Regions_unexplored-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0141.zip",
+      "sha1": "46dfb8c81e62ab3054a1dd1f5218b2433f6554ac"
+    },
+    {
+      "file": "Rogues-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0142.zip",
+      "sha1": "740065de473cb0bddda32b89cdc57b5581278611"
+    },
+    {
+      "file": "Simply Swords Reforged v2.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0143.zip",
+      "sha1": "de44bfde1e0e7f150397138bc0dddd88d67279d7"
+    },
+    {
+      "file": "simplyswordsashen.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0144.zip",
+      "sha1": "6ec00691c98192650832cde99a8a3cb229a90883"
+    },
+    {
+      "file": "Soulsweapons-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0145.zip",
+      "sha1": "223be290bfbbf395c3d2e793879bf2f56c715c0d"
+    },
+    {
+      "file": "Spellbladenext-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0146.zip",
+      "sha1": "eecf8fd63d1a8b095292cf6e1e83458c29d5fb26"
+    },
+    {
+      "file": "Stoneworks-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0147.zip",
+      "sha1": "2aa01d102b0d072d04b8c93f1c0f9c6316cdc3a4"
+    },
+    {
+      "file": "Supplementaries-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0148.zip",
+      "sha1": "b565caf8fcb35f3110e6abd2aef16dd2435e41d3"
+    },
+    {
+      "file": "Thaumon-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0149.zip",
+      "sha1": "fe552a5b40d2aabdaefd4441d4344a046616958d"
+    },
+    {
+      "file": "Transmog-Spanish-v1.0.0 (1).zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0150.zip",
+      "sha1": "571b2727978708e29cce6ea50d95dbe2e467e373"
+    },
+    {
+      "file": "Twigs-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0151.zip",
+      "sha1": "2ca36202457cb9d557f1f1d99dfa961d6c6bc775"
+    },
+    {
+      "file": "Villagersplus-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0152.zip",
+      "sha1": "cc6a007e6ec20b2aabccee2a78424ae36df974d3"
+    },
+    {
+      "file": "Villagersplus-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0153.zip",
+      "sha1": "24965e59a7ac36798a9ec6f2929b98c9c6676613"
+    },
+    {
+      "file": "Vinery-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0154.zip",
+      "sha1": "ba8b9f6e3f42a035bcacb1dec1e73ee3980e342d"
+    },
+    {
+      "file": "Winterly-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0155.zip",
+      "sha1": "5db9fa9da487a86c840270c63e20dbccac27b5b6"
+    },
+    {
+      "file": "Wizards-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0156.zip",
+      "sha1": "4a03e9cb3204c1a2053c119da974ea90593bd7cb"
+    },
+    {
+      "file": "Zenith-PT-BR-v1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0157.zip",
+      "sha1": "a055eb57cb92d97697ed14c50e977ce7711bc730"
+    },
+    {
+      "file": "ZenithEs-Spanish-v1.0.0.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0158.zip",
+      "sha1": "f6465deddb37f3e19627fd7939fb7e81e1640573"
+    },
+    {
+      "file": "§cMine_Cells§6_3D_Weapons§8_1.0.1.zip",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/resourcepacks-9052f878f9694ca78275f134ef80cca2/pack-0159.zip",
+      "sha1": "7156783aef6e31cdd09e19bd81a7169b752a2b2e"
+    }
   ]
 }
