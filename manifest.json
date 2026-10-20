@@ -1,252 +1,2217 @@
 {
-  "minecraft_version": "1.21.1",
+  "minecraft_version": "1.20.1",
   "mod_loader": "fabric",
-  "loader_version": "0.18.4",
+  "loader_version": "0.19.3",
   "mods": [
     {
-      "file": "amendments-1.21-2.0.15-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/amendments-1.21-2.0.15-fabric.jar",
-      "sha1": "94245b5c7a552a43f56fd60387142c568ba943e4"
+      "file": "[fabric]ctov-3.4.14.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0000.jar",
+      "sha1": "398954d32ba01fe63e2ae8a49c5921089f7e3eb7"
     },
     {
-      "file": "architectury-13.0.8-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/architectury-13.0.8-fabric.jar",
-      "sha1": "e71346a43c563e5784580dd096338acfb45f49d4"
+      "file": "aaa_particles-fabric-1.20.1-2.2.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0001.jar",
+      "sha1": "185f654502b1eb966f983de050dbc0594129b2ae"
     },
     {
-      "file": "AsyncParticles-3.4.0-beta.1+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/AsyncParticles-3.4.0-beta.1+1.21.1.jar",
-      "sha1": "3591df55ff3396ec9fd24cd5a500e7438fa3b939"
+      "file": "accessories-fabric-1.0.0-beta.48+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0002.jar",
+      "sha1": "38e3d368d97914966bdda5c6719f77c7f1f9a58d"
     },
     {
-      "file": "cloth-config-15.0.140-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/cloth-config-15.0.140-fabric.jar",
-      "sha1": "5d82342a2df53fd6df712bfdd583a811572918a4"
+      "file": "accessories_tclayer-3.8.1-beta.14+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0003.jar",
+      "sha1": "d64fa7d29699e5cb0849cede205a9a2841ffad9b"
     },
     {
-      "file": "CraterLib-Fabric-1.21-3.0.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/CraterLib-Fabric-1.21-3.0.1.jar",
-      "sha1": "2b8c8f5e569922c2c67451311fbfaf6850f672a9"
+      "file": "Ad-Astra-Giselle-Addon-fabric-1.20.1-6.19.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0004.jar",
+      "sha1": "ebcb28413f21abebcbb103a4c583c4d6bd147c2e"
     },
     {
-      "file": "drippyloadingscreen_fabric_3.1.0_MC_1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/drippyloadingscreen_fabric_3.1.0_MC_1.21.1.jar",
-      "sha1": "8fdb948dbd319b5914c2ae5afdb703fc33632dda"
+      "file": "ad_astra-fabric-1.20.1-1.15.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0005.jar",
+      "sha1": "66ffb3d9e39ae5ab698a1528eab57ef0fdd1bfc4"
     },
     {
-      "file": "eating-animation-1.21+1.9.72.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/eating-animation-1.21+1.9.72.jar",
-      "sha1": "d89ecd0ac342697e0d1c3aaff1daa6c81bebe2f6"
+      "file": "advancednetherite-fabric-2.1.3-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0006.jar",
+      "sha1": "f5a8f912232ccaeac0e2167f2e9347b5da1bb26e"
     },
     {
-      "file": "entity_model_features_1.21-fabric-3.0.12.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/entity_model_features_1.21-fabric-3.0.12.jar",
-      "sha1": "61edf36251b3eec497d622fae9ea1baac6308a05"
+      "file": "adventurez-1.4.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0007.jar",
+      "sha1": "a727891db0b750fda3c4e6f15e2781b89c490647"
     },
     {
-      "file": "entity_texture_features_1.21-fabric-7.0.9.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/entity_texture_features_1.21-fabric-7.0.9.jar",
-      "sha1": "0616d3dd4c8a27350ee46e94577da2c247878558"
+      "file": "ae2-emi-crafting-1.3.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0008.jar",
+      "sha1": "1a8d8e4a58c9be517c05c14f36c7d663f65a569f"
     },
     {
-      "file": "fabric-api-0.116.9+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/fabric-api-0.116.9+1.21.1.jar",
-      "sha1": "e41cb63b923a6064021c5a30afa4e844b82ca6e9"
+      "file": "AE2-MouseTweaks-Fix-2.0.0+1.20.1+fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0009.jar",
+      "sha1": "5ec6eda1b3c78787bb8f89966f55fcf2aa915eb4"
+    },
+    {
+      "file": "ae2wtlib-15.2.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0010.jar",
+      "sha1": "180a4e0b62e65930e0aef9dc0380c425e7d5d7b4"
+    },
+    {
+      "file": "alloy-forgery-2.1.2+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0011.jar",
+      "sha1": "2a5b1cdd7dacaba4012c0a3d116d726302f62dca"
+    },
+    {
+      "file": "allthetrims-3.4.3-fabric+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0012.jar",
+      "sha1": "c9360422d9ccb4611a29de6c71e7f7aecd6d43a9"
+    },
+    {
+      "file": "almostunified-fabric-1.20.1-0.11.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0013.jar",
+      "sha1": "ecdeda6f53f373321011acfde3fc4e4d3cf0c652"
+    },
+    {
+      "file": "alternate-current-mc1.20-1.9.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0014.jar",
+      "sha1": "f09b6c60556ca329b82d4bdb965dd4f574c0e1e3"
+    },
+    {
+      "file": "AmbientSounds_FABRIC_v6.3.8_mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0015.jar",
+      "sha1": "1d37e21d373256a7bd7fec82670e80b0430bcfa2"
+    },
+    {
+      "file": "amecs-bundle-1.6.3+mc1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0016.jar",
+      "sha1": "36bd030cbde20a5741fea088153c71f172ec152c"
+    },
+    {
+      "file": "amendments-1.20-2.2.6-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0017.jar",
+      "sha1": "b4a296ab4ac87b00b9dbb530b4514b642be22335"
+    },
+    {
+      "file": "animal_feeding_trough-1.1.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0018.jar",
+      "sha1": "48a06994464e0e9e1751676de15b2eecccfd8ad4"
+    },
+    {
+      "file": "Animation_Overhaul-fabric-1.20.x-1.3.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0019.jar",
+      "sha1": "04c95790d4ab2f0a29709f446b4bac0577866f3c"
+    },
+    {
+      "file": "appleskin-fabric-mc1.20.1-2.5.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0020.jar",
+      "sha1": "f859bb13130788ae2dc2e76a9c80c89e4bbbef5f"
+    },
+    {
+      "file": "applied-botanics-fabric-1.5.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0021.jar",
+      "sha1": "87a4bc95365d9473f09741db373d92493b3bed35"
+    },
+    {
+      "file": "appliedenergistics2-fabric-15.4.10.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0022.jar",
+      "sha1": "c8e746a11c4a658457b61e54d7da9f749b3ae03c"
+    },
+    {
+      "file": "Aquamirae 6.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0023.jar",
+      "sha1": "13feb2c346d372b3bec57f1ad2e151d87f65e5d6"
+    },
+    {
+      "file": "archers-1.3.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0024.jar",
+      "sha1": "ef28eaebd580ec432330e303ce64eb541e95860c"
+    },
+    {
+      "file": "archers-expansion-0.2.6-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0025.jar",
+      "sha1": "5242f51c8d4d44f8526b0e9ab54c4b21a304ddb8"
+    },
+    {
+      "file": "architectury-9.2.14-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0026.jar",
+      "sha1": "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d"
+    },
+    {
+      "file": "Archon-1.1.5.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0027.jar",
+      "sha1": "f8f4f0762543dd900cced5c68f66ea19d4e74361"
+    },
+    {
+      "file": "artifacts-fabric-9.5.17.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0028.jar",
+      "sha1": "c851630a411fa287ac64214ba73d1c978d805048"
+    },
+    {
+      "file": "ash_api-fabric-3.0.2+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0029.jar",
+      "sha1": "349651ce1d440231aca8c7bf8c6a32f58db26b79"
+    },
+    {
+      "file": "athena-fabric-1.20.1-3.1.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0030.jar",
+      "sha1": "53014ceff1e10085609c16adbe246df51113bfe9"
+    },
+    {
+      "file": "AttributeFix-Fabric-1.20.1-21.0.5.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0031.jar",
+      "sha1": "181c94abb434890b4d1422544b8e400b73b6f8c6"
+    },
+    {
+      "file": "autotag-2.0.2+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0032.jar",
+      "sha1": "78183b1e5513c6b6d8bf5477b0cda9d8f86268c4"
+    },
+    {
+      "file": "auudio_fabric_1.0.3_MC_1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0033.jar",
+      "sha1": "eb1ade38a01784d74651257c77a433a71976cce4"
+    },
+    {
+      "file": "azurelib-fabric-1.20.1-3.0.27.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0034.jar",
+      "sha1": "53cd28642531a039b51d2a3a84d9ec5189decf46"
+    },
+    {
+      "file": "azurelibarmor-fabric-1.20.1-2.0.14.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0035.jar",
+      "sha1": "df49117310e310999c5508a36acbf15e7d1319bf"
+    },
+    {
+      "file": "BadOptimizations-2.2.3-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0036.jar",
+      "sha1": "357d2055c510440cdf11cc3102bbcb503a54cac6"
+    },
+    {
+      "file": "badpackets-fabric-0.4.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0037.jar",
+      "sha1": "87b7ef4e9c9bff0fd8cdcc79156e9c7ac7b26690"
+    },
+    {
+      "file": "balm-fabric-1.20.1-7.3.38.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0038.jar",
+      "sha1": "833370d2a28be5673537b177e332918668e829e0"
+    },
+    {
+      "file": "bard-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0039.jar",
+      "sha1": "447f4ac8223873332bc794d0002dc56b31afece0"
+    },
+    {
+      "file": "BarteringStation-v8.0.0-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0040.jar",
+      "sha1": "876084f943972639ce4997a80fb72f0f78ac8dec"
+    },
+    {
+      "file": "bclib-3.0.14.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0041.jar",
+      "sha1": "34be724165bfe1207542f26551b10925d099eee1"
+    },
+    {
+      "file": "better-end-4.0.11.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0042.jar",
+      "sha1": "1e54364d63245a51e66e414ca73efbac9e05f11d"
+    },
+    {
+      "file": "better-nether-9.0.10.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0043.jar",
+      "sha1": "7247c4b3f319f828205fc9f195261c46a24280ec"
+    },
+    {
+      "file": "better-trim-tooltips-1.0.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0044.jar",
+      "sha1": "5cb640048145f647fd879d68b2db953607610c8e"
+    },
+    {
+      "file": "BetterAdvancements-Fabric-1.20.1-0.4.2.60.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0045.jar",
+      "sha1": "b21a37c0686de09d6a5c7b1a405d8a2d7e7263de"
+    },
+    {
+      "file": "betterarcheology-1.2.1-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0046.jar",
+      "sha1": "6bdf69749295de368fac4ee1822c2517a1f345a8"
+    },
+    {
+      "file": "betterbeds-1.3.0-1.19.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0047.jar",
+      "sha1": "be8020ab06b679bb33f93a7e9ade8a783985eab0"
+    },
+    {
+      "file": "bettercombat-fabric-1.9.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0048.jar",
+      "sha1": "5a86bc3e543c764411bd20c56d1a33d7d73de26d"
+    },
+    {
+      "file": "BetterCompatibilityChecker-fabric-4.0.8+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0049.jar",
+      "sha1": "8aa26b0ec2f48e65598fab5cf08cea569d87dc48"
+    },
+    {
+      "file": "betterend-crashed-ships-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0050.jar",
+      "sha1": "63ea28f999b58d331f653d2611a414097d4ee6f4"
+    },
+    {
+      "file": "betterthanmending-1.3.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0051.jar",
+      "sha1": "4e1b2c8baad90324d7b45eaa4c39f8249c3d0a64"
+    },
+    {
+      "file": "bettertrims-2.3.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0052.jar",
+      "sha1": "e2d704ce12d694e546a58b3d0e78d55ec1c47ed5"
+    },
+    {
+      "file": "BHMenu-Fabric-1.20.1-2.4.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0053.jar",
+      "sha1": "f2c97fabe85e708ef9dbab0c024ca19072ac9150"
+    },
+    {
+      "file": "Block Swap-fabric-1.20.1-5.0.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0054.jar",
+      "sha1": "c1efa0ef991b8144b8aece91c3d8df956aa9717c"
+    },
+    {
+      "file": "blur-3.1.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0055.jar",
+      "sha1": "3a0811af7f425daab896fbfc38898a22e7af39cf"
+    },
+    {
+      "file": "Boat-Item-View-Fabric-1.20.1-0.0.5.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0056.jar",
+      "sha1": "c71b4fa8fd4ca580f39f94f278c1864c3befca51"
+    },
+    {
+      "file": "BoatBreakFix-Universal-1.0.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0057.jar",
+      "sha1": "f0bc583479532b7a83cded5ac86f0b3622c69558"
+    },
+    {
+      "file": "bobby-5.0.1.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0058.jar",
+      "sha1": "510663fedcc0c693c24003377e4f54c56f182a2e"
+    },
+    {
+      "file": "BOMD-1.7.5-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0059.jar",
+      "sha1": "6312dfbbc64f5621a3f5169ff6c53f567baee56b"
+    },
+    {
+      "file": "Bookshelf-Fabric-1.20.1-20.2.15.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0060.jar",
+      "sha1": "d41d4d6dd7e41c238c5120831ee35d5cd8673235"
+    },
+    {
+      "file": "Botania-1.20.1-455-FABRIC.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0061.jar",
+      "sha1": "1dc7fba5073fb1eb7330d00e57aa53b8037fae6e"
+    },
+    {
+      "file": "botarium-fabric-1.20.1-2.3.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0062.jar",
+      "sha1": "20e1c12cd5e4b4127c7b20ab7e7f81e7119dbf8b"
+    },
+    {
+      "file": "bpmelodies-fabric-1.20.1-1.0.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0063.jar",
+      "sha1": "87143de8600be96ef9ba7b1702ef6f3a5deb537f"
+    },
+    {
+      "file": "BuildGuide-1.20-0.4.9.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0064.jar",
+      "sha1": "22557b6d2bb302ae109dc270e31477198e97c04d"
+    },
+    {
+      "file": "BuildingWands-fabric-MC1.20.1-3.0.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0065.jar",
+      "sha1": "40af1ab2ae6c89bac23f6b502bbb8ae3f820487b"
+    },
+    {
+      "file": "bwncr-fabric-1.20.1-3.17.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0066.jar",
+      "sha1": "1ac39c36d08d887b4d1fcd6faf1f570405323061"
+    },
+    {
+      "file": "cable-fixes-for-prom-1.1.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0067.jar",
+      "sha1": "3d2811b4930070c98df9f16b7e3b6d179a5c7818"
+    },
+    {
+      "file": "cardinal-components-api-5.2.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0068.jar",
+      "sha1": "d0d687d8fc3f367bf696fa0059bccdf0591c51f4"
+    },
+    {
+      "file": "carryon-fabric-1.20.1-2.1.2.7.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0069.jar",
+      "sha1": "8f3858977becfbc26f67f4a5579881e15e07d69d"
+    },
+    {
+      "file": "cat_jam-fabric-mc1.20-1.3.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0070.jar",
+      "sha1": "2bcc06b3a2e191c965b8436b18bcd466220b49f9"
+    },
+    {
+      "file": "chat_heads-0.15.7-fabric-1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0071.jar",
+      "sha1": "f35f3a2258f69be0a49d098c790869419b3ac2ce"
+    },
+    {
+      "file": "chatanimation-fabric-1.3.0+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0072.jar",
+      "sha1": "8c796da40ef400ecec860505bbf8db3647226787"
+    },
+    {
+      "file": "chefs-delight-1.0.4-fabric-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0073.jar",
+      "sha1": "8742572ac85ac1fe28c6f3cf19909583dd3fc718"
+    },
+    {
+      "file": "cherishedworlds-fabric-6.1.7+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0074.jar",
+      "sha1": "da9ecf9e350accf60a2f428217f336631b03d603"
+    },
+    {
+      "file": "chipped-fabric-1.20.1-3.0.7.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0075.jar",
+      "sha1": "add35e79f6a930825e4dbe77d5d0468fb96c533f"
+    },
+    {
+      "file": "ChippedExpress-universal-20x.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0076.jar",
+      "sha1": "47fd0dc3aff5b5069e657629646541c688383bc0"
+    },
+    {
+      "file": "chunksavefix-fabric-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0077.jar",
+      "sha1": "72ac52513e007f9bdf66c6f53ec3dac37328f2ec"
+    },
+    {
+      "file": "Chunky-1.3.146.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0078.jar",
+      "sha1": "b5672d69dc2b210ab2165a27afc03a424fa2b46a"
+    },
+    {
+      "file": "cicada-lib-0.14.3+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0079.jar",
+      "sha1": "7020750b6da78cc12de1607c79b099714c178b35"
+    },
+    {
+      "file": "citresewn-1.2.2+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0080.jar",
+      "sha1": "1197a13e1c69e808e0c5d992fb344840c99a15d6"
+    },
+    {
+      "file": "clickadv-fabric-1.20.1-3.8.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0081.jar",
+      "sha1": "4417c595b13d6ce79cb500f69631cd753fdd9357"
+    },
+    {
+      "file": "cloth-config-11.1.136-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0082.jar",
+      "sha1": "d5fe84a0cc9ed5c7290a76ba570e1f8716afecab"
+    },
+    {
+      "file": "Clumps-fabric-1.20.1-12.0.0.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0083.jar",
+      "sha1": "4a845a29ddfd40bcc4695bbbc82872c237dbbac5"
+    },
+    {
+      "file": "collective-1.20.1-8.39.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0084.jar",
+      "sha1": "4622cf120fd3eb82972dc6634d6a5910d04e3c91"
+    },
+    {
+      "file": "colorwheel-fabric-1.2.9+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0085.jar",
+      "sha1": "1302ebad60341b7884a5255e5b39c4b9ddb9970b"
+    },
+    {
+      "file": "colorwheel_patcher-fabric-1.0.5+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0086.jar",
+      "sha1": "7476a6e3670e3490a43e343c3be77752e86337c5"
+    },
+    {
+      "file": "combat_effects-fabric-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0087.jar",
+      "sha1": "e94afd4ca84af3d3459d78fed8441ed9ef4c83bb"
+    },
+    {
+      "file": "combatroll-fabric-1.3.3+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0088.jar",
+      "sha1": "7711c08770aa5d15f215093b6884c473350e2e1f"
+    },
+    {
+      "file": "comforts-fabric-6.4.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0089.jar",
+      "sha1": "96c1b52fa6dcff140b56e17ce980d2a5c528fad2"
+    },
+    {
+      "file": "common-networking-fabric-1.0.6-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0090.jar",
+      "sha1": "594ec4c6e45c32a950228cc3d2409b6d20579ff1"
+    },
+    {
+      "file": "connectiblechains-2.5.7+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0091.jar",
+      "sha1": "fec74b747c842bcf923f675dd0416a8c6b00d595"
+    },
+    {
+      "file": "connectivity-fabric-1.20.1-7.6.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0092.jar",
+      "sha1": "4b23cff87b1e23edb179868ee0eb58e4d34c98b6"
+    },
+    {
+      "file": "convenientdecor-0.4.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0093.jar",
+      "sha1": "652c4b2908baa6cfeffaaecb2399f0ed41549bf8"
+    },
+    {
+      "file": "copycats-3.0.10+mc.1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0094.jar",
+      "sha1": "63b396c6abaeba52eeb403cb095682a603700629"
+    },
+    {
+      "file": "coroutil-fabric-1.20.1-1.3.7.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0095.jar",
+      "sha1": "0b9a1b0db34d1271fe7bcc4ec0e451c3fb25a04c"
+    },
+    {
+      "file": "CrashAssistant-fabric-1.19-1.20.1-1.11.12.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0096.jar",
+      "sha1": "ed9b588b34a4389172d92cf9eb5d1206a051713b"
+    },
+    {
+      "file": "create-fabric-6.0.8.1+build.1744-mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0097.jar",
+      "sha1": "f750d019bc1230c8c7a8a4ccf549d1db192d7a69"
+    },
+    {
+      "file": "create-new-age-1.1.7f+fabric-mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0098.jar",
+      "sha1": "ed528252ce75b9e16d90578fb9dea72f3960519d"
+    },
+    {
+      "file": "Create_Questing-FABRIC-1.20.1-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0099.jar",
+      "sha1": "f06c3a1b395ed0f6f7c7bc9c10899e70d71c3bb1"
+    },
+    {
+      "file": "createaddition-fabric+1.20.1-1.3.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0100.jar",
+      "sha1": "22843b7edd3f1b151a8aaeffe72ec3c827929b36"
+    },
+    {
+      "file": "createestrogen-1.0.1+1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0101.jar",
+      "sha1": "47cdab68820ab4aebc14f378e44fe4cf8035e4d8"
+    },
+    {
+      "file": "createTestosterone-fabric-1.20.1-1.1.8.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0102.jar",
+      "sha1": "e6b8fc0c30ec4af219cd382ebb3d2ecb0fa00e8d"
+    },
+    {
+      "file": "CreativeCore_FABRIC_v2.12.39_mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0103.jar",
+      "sha1": "2ad4cad201d6fe91e40a6e938605d937ce541ac8"
+    },
+    {
+      "file": "creeperoverhaul-3.0.2-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0104.jar",
+      "sha1": "28f45ffa819e310e0df0e652b7a971db993fa008"
+    },
+    {
+      "file": "cristellib-1.1.5-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0105.jar",
+      "sha1": "fbf3e76abc2da1a31db0f998c39e64b69300e9bc"
+    },
+    {
+      "file": "Croptopia-1.20.1-FABRIC-3.0.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0106.jar",
+      "sha1": "2ea5a79912d7ddc72d08328c43f6ea22cf6c409e"
+    },
+    {
+      "file": "cupboard-fabric-1.20.1-4.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0107.jar",
+      "sha1": "a46563e61b96156484b9f449ed7ee668f390cdec"
+    },
+    {
+      "file": "custom_tooltip_api-fabric-5.1.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0108.jar",
+      "sha1": "8589834154cc7534b9137a0f52f1cf442ec8960f"
+    },
+    {
+      "file": "CustomEntityAttributes-FABRIC-1.20.X-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0109.jar",
+      "sha1": "75a2dc687022b0417f6b00642723c67bc16104c5"
+    },
+    {
+      "file": "CustomItemAttributes-FABRIC-1.20.X-2.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0110.jar",
+      "sha1": "4e4f970276c1f901f065d377abb4313f4b039633"
+    },
+    {
+      "file": "cynosure-0.1.16-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0111.jar",
+      "sha1": "ae301baf5e4153920c7622aaba37f2c12cb8e765"
+    },
+    {
+      "file": "DarkPaintings-Fabric-1.20.1-17.0.6.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0112.jar",
+      "sha1": "04aaae48f8d15f8f99a62f3a342aa0f8a4b1ed74"
+    },
+    {
+      "file": "DarkUtilities-Fabric-1.20.1-17.0.6.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0113.jar",
+      "sha1": "6434399f1cc8daa89636aca81e434cbb925e93b8"
+    },
+    {
+      "file": "dawn-5.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0114.jar",
+      "sha1": "9421690865083eac83332125eb7696b27e80e723"
+    },
+    {
+      "file": "death_knights-fabric-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0115.jar",
+      "sha1": "61511112de79a2e712b9a7520e9b7807ad19c190"
+    },
+    {
+      "file": "Debugify-1.20.1+2.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0116.jar",
+      "sha1": "ca859180ad2b57856fbcc8db4995c1871a7d556c"
+    },
+    {
+      "file": "Decorative Blocks-fabric-1.20.1-4.0.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0117.jar",
+      "sha1": "5f2f0ed8fc1e032502bcb5ad5a8069d7a832caca"
+    },
+    {
+      "file": "deeperdarker-fabric-1.20-1.3.3-plus-b.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0118.jar",
+      "sha1": "3d98e4434b357edb898967ab6f0b6f1a47c26671"
+    },
+    {
+      "file": "derelict-2.1.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0119.jar",
+      "sha1": "2998c8140088df365b8056c36f1b850924efcf02"
+    },
+    {
+      "file": "despawntweaks-fabric-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0120.jar",
+      "sha1": "19627abbc7329f92a3e8a01f0d8085c82496139b"
+    },
+    {
+      "file": "DEUF_Refabricated-MC1.20.1-1.1.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0121.jar",
+      "sha1": "0d02a861b18bb253c15335f72a3ce8185307da2a"
+    },
+    {
+      "file": "distraction_free_recipes-fabric-1.2.1-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0122.jar",
+      "sha1": "1bef806e432adec90f514f61a4b46a36da6f1881"
+    },
+    {
+      "file": "do_a_barrel_roll-fabric-3.6.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0123.jar",
+      "sha1": "2efedb58832380d3a6f6445033b12222aa247f9a"
+    },
+    {
+      "file": "doubledoors-1.20.1-7.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0124.jar",
+      "sha1": "e97abe73c78be318584623a5e5b6e311e545da31"
+    },
+    {
+      "file": "dragonfight-fabric-1.20.1-4.7.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0125.jar",
+      "sha1": "159ccbac90dc38babc846b309c4a579d874d5ee9"
+    },
+    {
+      "file": "drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0126.jar",
+      "sha1": "1bbe8cd2fdb8f1d17a792177e6f7d6ecb8377e0c"
+    },
+    {
+      "file": "dummmmmmy-1.20-2.0.12-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0127.jar",
+      "sha1": "4d34137a8bd1d8f6dd95473b6d15b75c417c269e"
+    },
+    {
+      "file": "DungeonsArise-1.20.x-2.1.58-fabric-release.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0128.jar",
+      "sha1": "9a10b4e3b7b3f69bd9a2ff1560fe0a22d87d9f09"
+    },
+    {
+      "file": "dynamic_resource_bars-fabric-0.8.1-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0129.jar",
+      "sha1": "f5900ee4c600fc339ce5925d0df97b47440e71f7"
+    },
+    {
+      "file": "dynamictrim-1.4.1-fabric+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0130.jar",
+      "sha1": "053db80675d74420c7dcc032f6ade10cbe70b5a2"
+    },
+    {
+      "file": "eating-animation-1.20+1.9.61.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0131.jar",
+      "sha1": "d5a8909b0b864eb1a7a2d62368932d264eb60317"
+    },
+    {
+      "file": "Eldritch_End-FABRIC-MC1.20.1-0.3.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0132.jar",
+      "sha1": "ee250b9796fa3af0396adc5ff8de8ec1931cf6fc"
+    },
+    {
+      "file": "emi-1.1.24+1.20.1+fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0133.jar",
+      "sha1": "fe02a2fa876cf7a651db39af12d3d2c02d0ae397"
+    },
+    {
+      "file": "emi-letsdo-compat-1.8.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0134.jar",
+      "sha1": "d75de241f5c84f25f25e76a61f19324682db16bc"
+    },
+    {
+      "file": "emi_enchanting-0.1.2+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0135.jar",
+      "sha1": "dbc3c4acecdce9b083cde7b91cc95e5ba57b3892"
+    },
+    {
+      "file": "emi_loot-0.7.9+1.20.1+fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0136.jar",
+      "sha1": "b968b5a439b12d2b70dbeb1141b574c88e1c5f95"
+    },
+    {
+      "file": "emi_ores-1.3+1.20.1+fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0137.jar",
+      "sha1": "fee01878b2a254d4d89fae830c6bcf50727d0f3d"
+    },
+    {
+      "file": "emicompat-1.1.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0138.jar",
+      "sha1": "afa0d5ada942516d0ddf472053bbd2433bc65fb5"
+    },
+    {
+      "file": "emiffect-fabric-2.1.5+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0139.jar",
+      "sha1": "18711c0138626c1087836796074cc3a6bd83a0ca"
+    },
+    {
+      "file": "EMIProfessions-fabric-1.20.1-1.0.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0140.jar",
+      "sha1": "6b08bae3a67a79ac08a68d017cebf77fb04a3122"
+    },
+    {
+      "file": "emitrades-fabric-1.2.1+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0141.jar",
+      "sha1": "72b51627c09e539e9f6194fc5aad862ff5f09461"
+    },
+    {
+      "file": "enchanted-fabric-1.20.1-3.1.14.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0142.jar",
+      "sha1": "206b980524abd5bf4fd0603cd03664f8fcc96508"
+    },
+    {
+      "file": "ends_delight-refabricated-1.20.1-2.5.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0143.jar",
+      "sha1": "8e87b47ae494350297c6b936ddc0bdf6b44e85ff"
+    },
+    {
+      "file": "entity_model_features_1.20.1-fabric-3.0.12.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0144.jar",
+      "sha1": "9001e7e0c4a74d5f7c102e45b1fb92f5189984b1"
+    },
+    {
+      "file": "entity_texture_features_1.20.1-fabric-7.0.9.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0145.jar",
+      "sha1": "6c36f10621d1ff9ac9f615ab4bdbb74bf9c3a409"
+    },
+    {
+      "file": "entityculling-fabric-1.10.5-mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0146.jar",
+      "sha1": "eab31fb55739a789ce84d72ba4432297f1309ee5"
+    },
+    {
+      "file": "EpheroLib-1.20.1-FABRIC-1.2.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0147.jar",
+      "sha1": "5a54bffb127857fe0d62a8708c5789db49ad71fd"
+    },
+    {
+      "file": "Essential_1-4-1-1_fabric_1-20-1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0148.jar",
+      "sha1": "506ccfa8de3a7744ca9adcf64e971a023f98e1bd"
+    },
+    {
+      "file": "estrogen-5.0.8+1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0149.jar",
+      "sha1": "c5172e3de883a59f44d7eb68fc5b3f60b41fb706"
+    },
+    {
+      "file": "eternal_attributes-fabric-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0150.jar",
+      "sha1": "b256a1e8c45eba5e576b0b8165b0e9cf90024f0f"
+    },
+    {
+      "file": "EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0151.jar",
+      "sha1": "2a596436fca404cf497c1e9228d6cd9748d1fbf2"
+    },
+    {
+      "file": "expandeddelight-0.3.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0152.jar",
+      "sha1": "694a256f1dae0d70c352fe34c9ce6727c2ef37b3"
+    },
+    {
+      "file": "explorations-fabric-1.20.1-1.6.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0153.jar",
+      "sha1": "eb8ae8326e376049b2b55af0178abef170ee45a6"
+    },
+    {
+      "file": "ExplorersCompass-1.20.1-2.6.0-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0154.jar",
+      "sha1": "b24709f8ac486a5107532a9f572cefcf28298598"
+    },
+    {
+      "file": "Explorify v1.6.5.mod.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0155.jar",
+      "sha1": "5fb28be29200a41b034e423d87823eb19ad651cd"
+    },
+    {
+      "file": "ExtendedAE-1.20-1.0.2-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0156.jar",
+      "sha1": "712edf150e4dc26d4a00476e4bd0d66392ebe3c8"
+    },
+    {
+      "file": "extra-mod-integrations-0.4.7+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0157.jar",
+      "sha1": "3c7c6645130f35772d81ba8a9cd70e6a85d0bbc8"
+    },
+    {
+      "file": "extra_thicc_packets-1.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0158.jar",
+      "sha1": "976ebc913d0ea3c3b2e14a47ee4db6e28294d013"
+    },
+    {
+      "file": "extraspellattributes-1.3.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0159.jar",
+      "sha1": "d385d6b2cac6b45da39f7d2c8e8c733e70f2ca04"
+    },
+    {
+      "file": "ExtremeSoundMuffler-3.51-fabric-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0160.jar",
+      "sha1": "333a5be61046d093dc7b8f59866e161c2349472a"
+    },
+    {
+      "file": "fabric-api-0.92.11+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0161.jar",
+      "sha1": "2824689367eec2b52c6085e968343751137e66bf"
+    },
+    {
+      "file": "fabric-end-remastered-5.2.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0162.jar",
+      "sha1": "815834a73e893f6520ea2d12e6b1e3397a1b65b2"
     },
     {
       "file": "fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0163.jar",
       "sha1": "20b2200961e11994595ebb2d5f6624f232d13751"
     },
     {
-      "file": "fancymenu_fabric_3.8.1_MC_1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/fancymenu_fabric_3.8.1_MC_1.21.1.jar",
-      "sha1": "65903483bbf770824d821c6065309648aae95304"
+      "file": "fakerlib-0.1.5.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0164.jar",
+      "sha1": "1a7092b7986ebba46dbbfd7f7facb6401b57757a"
     },
     {
-      "file": "fzzy_config-0.7.6+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/fzzy_config-0.7.6+1.21.jar",
-      "sha1": "cff21f254e911a323fe49015d12e548d3e3b8d7c"
+      "file": "fallingleaves-1.15.6+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0165.jar",
+      "sha1": "9950aaea2a33b1cfc972e881c533384e3bb0a0fb"
     },
     {
-      "file": "harpymodloader-1.2.4-h1.3.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/harpymodloader-1.2.4-h1.3.jar",
-      "sha1": "8b8f1a323cc4fb4f237fce8ed0edbff50a6b458a"
+      "file": "FancyHotbar-Fabric-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0166.jar",
+      "sha1": "b0f61532f8d6d3360c1c6c6dae60986b7a15e411"
     },
     {
-      "file": "InvMove-0.9.3+1.21.1-Fabric.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/InvMove-0.9.3+1.21.1-Fabric.jar",
-      "sha1": "87c3fc1519f31e17c6ad27b108a3a3304d52a5f9"
+      "file": "fancymenu_fabric_3.7.0_MC_1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0167.jar",
+      "sha1": "463d81a560492e441b397852359dbcd12a04aa72"
     },
     {
-      "file": "iris-fabric-1.8.8+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/iris-fabric-1.8.8+mc1.21.1.jar",
-      "sha1": "4e0df4011503b4b36ba69877ea7247c1a47fea00"
+      "file": "FarmersDelight-1.20.1-2.4.1+refabricated.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0168.jar",
+      "sha1": "b8dded252730b2d47655813dde9d743785c0b107"
     },
     {
-      "file": "kinswathe-1.6.3.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/kinswathe-1.6.3.jar",
-      "sha1": "a76c90cd08e89aed4aa2d441d465b58ce7b8d2c1"
+      "file": "farmersknives-3.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0169.jar",
+      "sha1": "eb79d941a640f7abe75e0ba453e9c894384c3d3b"
     },
     {
-      "file": "konkrete_fabric_1.9.9_MC_1.21.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/konkrete_fabric_1.9.9_MC_1.21.jar",
-      "sha1": "c521e23a8be17a941f4f95a76feba9df5e3de5d0"
+      "file": "fastpaintings-1.20-1.2.7-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0170.jar",
+      "sha1": "cc967836211a3e3b511486670bba712aab43df91"
     },
     {
-      "file": "letsdo-furniture-fabric-1.1.3.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/letsdo-furniture-fabric-1.1.3.jar",
-      "sha1": "35f4fb64be2cee703a9e074baa06448270785449"
+      "file": "FauxCustomEntityData-fabric-1.20.1-6.0.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0171.jar",
+      "sha1": "5c9c840aeda651dd23395ef82a81ea1b8fa2d23a"
     },
     {
-      "file": "melody_fabric_1.0.10_MC_1.21.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/melody_fabric_1.0.10_MC_1.21.jar",
-      "sha1": "5624eea73f251c70a9489192d326f9b4aab3b13c"
+      "file": "ferritecore-6.0.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0172.jar",
+      "sha1": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa"
     },
     {
-      "file": "modmenu-11.0.3.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/modmenu-11.0.3.jar",
-      "sha1": "6213120772192040a0aeb5c7cfe330c068605b1f"
+      "file": "forcemaster-class-mod-1.2.7-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0173.jar",
+      "sha1": "446feb2dbe3a3695ea60f4fc3d11468ec106e8ef"
     },
     {
-      "file": "moonlight-1.21-2.29.18-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/moonlight-1.21-2.29.18-fabric.jar",
-      "sha1": "7a5986e9b43f63e7dbe8f7349dc542b37aefbc08"
+      "file": "ForgeConfigAPIPort-v8.0.3-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0174.jar",
+      "sha1": "41f146d16a37f62e84e60cab226058d1a87f9cec"
     },
     {
-      "file": "noellesroles-1.7.1-h1.3.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/noellesroles-1.7.1-h1.3.jar",
-      "sha1": "14e749964bd83bc4a1541f63692e75998393b053"
+      "file": "ForgeConfigScreens-v8.0.2-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0175.jar",
+      "sha1": "d10defe8ab8ebf93c6adf33ab36bb9dc4e82b825"
     },
     {
-      "file": "Not Enough Recipe Book-FABRIC-0.4.3+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/Not Enough Recipe Book-FABRIC-0.4.3+1.21.jar",
-      "sha1": "f7fcc3d8969f0838e32bf8dd0ed17ef46c07a655"
+      "file": "friendsandfoes-fabric-mc1.20.1-3.0.9.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0176.jar",
+      "sha1": "6a062ac17b5eb26667b07662354c4d7ec0a45500"
     },
     {
-      "file": "notenoughanimations-fabric-1.11.3-mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/notenoughanimations-fabric-1.11.3-mc1.21.1.jar",
-      "sha1": "1044f009e62ee7665b384f42f3d12df3145ef54c"
+      "file": "ftb-library-fabric-2001.2.12.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0177.jar",
+      "sha1": "974823aa0fcb3420cae1e7a0148469672d0bc186"
     },
     {
-      "file": "OctoLib-FABRIC-0.6.0.4+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/OctoLib-FABRIC-0.6.0.4+1.21.jar",
-      "sha1": "cec4802f4e595d129fd2bcd9f1fca6369d909709"
+      "file": "ftb-quests-fabric-2001.4.18.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0178.jar",
+      "sha1": "22d2bd6481bf108e6d08ae03296392fec5195adc"
     },
     {
-      "file": "owo-lib-0.12.15.4+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/owo-lib-0.12.15.4+1.21.jar",
-      "sha1": "45725e6d33b624e565a7a6e5d3627af40814288d"
+      "file": "ftb-teams-fabric-2001.3.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0179.jar",
+      "sha1": "fcfc1afb1aef5a7878f56a09868b9b6a74bf841b"
     },
     {
-      "file": "particlerain-4.0.0-beta.5+1.21.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/particlerain-4.0.0-beta.5+1.21.1-fabric.jar",
-      "sha1": "e73a61bb88772a19b9609d388917f4c4b58830cc"
+      "file": "ftb-xmod-compat-fabric-2.1.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0180.jar",
+      "sha1": "20ff2644eb3580563e9b47758487fed2686682f3"
     },
     {
-      "file": "placeholder-api-2.4.2+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/placeholder-api-2.4.2+1.21.jar",
-      "sha1": "aa1b9a49f9f190dfe4825c502b150817dd2998c3"
+      "file": "ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0181.jar",
+      "sha1": "d140b498b1a5c13f740af480bd00d46e9651d98d"
     },
     {
-      "file": "PresenceFootsteps-1.11.1+1.21.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/PresenceFootsteps-1.11.1+1.21.jar",
-      "sha1": "cfbeb32cc1dc17ef5c83a9f7a073a26453da8a8c"
+      "file": "ftbquesttransl-1.20.1-fabric-1.4.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0182.jar",
+      "sha1": "d260c23d34803d75af351664392e023f7e842b51"
     },
     {
-      "file": "raised-fabric-1.21.1-5.1.2.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/raised-fabric-1.21.1-5.1.2.jar",
-      "sha1": "e0784e573f71ab75c76caa70ebee836d1bc105b3"
+      "file": "ftbxemicompat-1.0.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0183.jar",
+      "sha1": "e6b49910fee827ffe3e44c178013cfb86293b107"
     },
     {
-      "file": "ratatouille-1.4.3-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/ratatouille-1.4.3-1.21.1.jar",
-      "sha1": "90c882bbe843040169191bc8339aa60780129eeb"
+      "file": "fzzy_config-0.7.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0184.jar",
+      "sha1": "bd952feb3885966d66b4d53ab9eb9689b28e6384"
     },
     {
-      "file": "resourcefullib-fabric-1.21-3.0.12.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/resourcefullib-fabric-1.21-3.0.12.jar",
-      "sha1": "cb67e1302b5116953f45556cc61dbcf40d986ecd"
+      "file": "geckolib-fabric-1.20.1-4.7.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0185.jar",
+      "sha1": "4e8bbf2d225818ebade6435a99351c64f315b419"
     },
     {
-      "file": "ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar",
-      "sha1": "ea53b83821e3a584159d0bca490e2460e27c616d"
+      "file": "Geophilic v3.6.mod.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0186.jar",
+      "sha1": "1eb1700a02ebeab1bf1f3004abd4a02263495d25"
     },
     {
-      "file": "shooterpunishments-1.2.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/shooterpunishments-1.2.jar",
-      "sha1": "f3dbcfac315d8a101c9e199b26122783dd53cc2b"
+      "file": "glfw-x11-fix-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0187.jar",
+      "sha1": "23287643c02f91f2b234b6d6b4904b41d13c771d"
     },
     {
-      "file": "SimpleRPC-4.0.5.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/SimpleRPC-4.0.5.jar",
-      "sha1": "6ec6f18ac26b82101e5d78974a541f3dff6ca1c4"
+      "file": "gpumemleakfix-fabric-1.20.1-1.8.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0188.jar",
+      "sha1": "f3cda542199d4344c317c464256a2a499a596431"
     },
     {
-      "file": "skinrestorer-2.11.0+1.21-fabric (1).jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/skinrestorer-2.11.0+1.21-fabric (1).jar",
-      "sha1": "eeb3592a4b1fc74b79880a43a9bd46dd950f925d"
+      "file": "GrassOverhaul-Fabric-1.20.1-v25.01.31.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0189.jar",
+      "sha1": "6f34f8fd97556fd92e0d622dc1cb0986fed8f79f"
     },
     {
-      "file": "sodium-fabric-0.6.13+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/sodium-fabric-0.6.13+mc1.21.1.jar",
-      "sha1": "928a2598178c3a58b0638bab842f467d2e49251a"
+      "file": "gun-scaling-2.1.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0190.jar",
+      "sha1": "21639434c330115770a6210fb778fe39ddc6f787"
     },
     {
-      "file": "sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar",
-      "sha1": "07d9f758338ad5be38b7fa1eb32c71a7c4840ea0"
+      "file": "handcrafted-fabric-1.20.1-3.0.6.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0191.jar",
+      "sha1": "459ccaa507c4c28738c6d821e12b66de31861c66"
     },
     {
-      "file": "starry-express-1.3.2.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/starry-express-1.3.2.jar",
-      "sha1": "e8a342b1b3bce9ed4fa437a0220e2270854dd253"
+      "file": "highlight-fabric-1.20-2.0.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0192.jar",
+      "sha1": "5714ec9fb4fac05cec51494a8ffa0d43ffca527f"
     },
     {
-      "file": "stupid-express-0.7.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/stupid-express-0.7.1.jar",
-      "sha1": "af344f00578dd63a78c47670048f0f14d3886450"
+      "file": "Highlighter-1.20.1-fabric-1.1.9.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0193.jar",
+      "sha1": "12fd494098bbcf8d34b1cb939587599594d4e9bf"
     },
     {
-      "file": "supplementaries-1.21-3.5.25-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/supplementaries-1.21-3.5.25-fabric.jar",
-      "sha1": "944b87e5343ed5323c5b64b619a5eeba3bc074fb"
+      "file": "htp-citoptimizer-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0194.jar",
+      "sha1": "e23f675042f691cb416717c9925f7da2c45a7427"
     },
     {
-      "file": "TalkingHeads-1.1.0+1.21.1+fabric.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/TalkingHeads-1.1.0+1.21.1+fabric.jar",
-      "sha1": "71b911477acdd94765a8bb3ece30120bdbbbbdc6"
+      "file": "Icarus-Fabric-2.14.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0195.jar",
+      "sha1": "1885e10e774da209aff5312f2e90f0b239a8250d"
     },
     {
-      "file": "voicechat-fabric-1.21.1-2.6.12.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/voicechat-fabric-1.21.1-2.6.12.jar",
-      "sha1": "c074f0a66b5a416337e62e96a74cd8ae2b0ad4d7"
+      "file": "icaruswings_transmog_compat-1.0.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0196.jar",
+      "sha1": "5f3a4711e459c85f8977f6761c9aaa144848d64d"
     },
     {
-      "file": "wathe-1.3.2-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/wathe-1.3.2-1.21.1.jar",
-      "sha1": "aba4df465fe4e990ace0aafbfeda1d77c8aaa32d"
+      "file": "Iceberg-1.20.1-fabric-1.1.25.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0197.jar",
+      "sha1": "365e70abde54faab847d2594420dc2bbd589ad3d"
     },
     {
-      "file": "wathe_blood-1.1.4+1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/wathe_blood-1.1.4+1.21.1.jar",
-      "sha1": "1aa20452f6a905af4d1cad1fda1397ce9da2b91e"
+      "file": "idwtialsimmoedm-0.3.1+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0198.jar",
+      "sha1": "492d28f486f5c55dc235be01842d6522bd5cc18c"
     },
     {
-      "file": "WatheExtended-3.5.132-FIX2.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/WatheExtended-3.5.132-FIX2.jar",
-      "sha1": "2860b1f08136440a30f65848a10e45ac95805684"
+      "file": "ImmediatelyFast-Fabric-1.2.17+1.20.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0199.jar",
+      "sha1": "7c21b91ac4bcd1c7c5c079fdbfb89002a31a24bd"
     },
     {
-      "file": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
-      "sha1": "e075503382f70715ab9fc6f66d603397a86eb3e0"
+      "file": "immersive_melodies-0.5.0+1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0200.jar",
+      "sha1": "cb7ba6d18367584e98d8cc18d39df1029471d75d"
+    },
+    {
+      "file": "immersive_optimization-fabric-1.20.1-0.2.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0201.jar",
+      "sha1": "69c5f1ec8d8d2471f194efa2b494138ea00588e6"
+    },
+    {
+      "file": "immersivelanterns-fabric-1.0.6-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0202.jar",
+      "sha1": "15348c0ff30cfdb43c1cc262f4a8ea5a00064518"
+    },
+    {
+      "file": "immersivemessages-fabric-1.0.18-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0203.jar",
+      "sha1": "fefcf2f5d78a9c4302a9baa1af1d1fcb32a8feb3"
+    },
+    {
+      "file": "indium-1.0.36+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0204.jar",
+      "sha1": "d824614e7a173d273167969f427702f51846aca7"
+    },
+    {
+      "file": "integrated_api-fabric-1.20.1-1.8.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0205.jar",
+      "sha1": "c2ca577e00416a4479c7cb0845b0cc9a1f8c482e"
+    },
+    {
+      "file": "integrated_stronghold-1.1.1+1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0206.jar",
+      "sha1": "d332f8d6087e87eb11257d418c97b91a0c4a4ac6"
+    },
+    {
+      "file": "integrated_villages-1.3.2+1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0207.jar",
+      "sha1": "059261a8b7952fcd26941cda8c0e64668b523b53"
+    },
+    {
+      "file": "InventorySorter-1.9.0-1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0208.jar",
+      "sha1": "19b4af69600fc940112f36a3256d492670d8d4c5"
+    },
+    {
+      "file": "invoke-1.0.3.1-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0209.jar",
+      "sha1": "70e4711d393a7e22764e1f046b74d74a110baf9f"
+    },
+    {
+      "file": "iris-1.7.6+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0210.jar",
+      "sha1": "880c0b9ce38bb4997645793407c1801df83f4233"
+    },
+    {
+      "file": "IrisSearch-1.8.0-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0211.jar",
+      "sha1": "f692a26a46c7c9bdbfaa5cd1c5e5a101b9fa1ebf"
+    },
+    {
+      "file": "ironchests-5.0.2-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0212.jar",
+      "sha1": "d6a4e18873de5caa6456ee9f95d33b7e6904be5c"
+    },
+    {
+      "file": "item-filters-fabric-2001.1.0-build.59.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0213.jar",
+      "sha1": "c3ed565b132cb2f2537c413e4fd039156fc0fba1"
+    },
+    {
+      "file": "Item_Obliterator-MC1.20.1-Fabric_Quilt-2.3.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0214.jar",
+      "sha1": "f03f73b69303aaf4306b6b35be223d780fc15f8d"
+    },
+    {
+      "file": "ItemBorders-1.20.1-fabric-1.2.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0215.jar",
+      "sha1": "37dce3e1ff7fe7d1577365e0ddec257c7fa1e275"
+    },
+    {
+      "file": "ItemLocks-Fabric-1.20.1-1.3.12.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0216.jar",
+      "sha1": "d5bf052d33f2688c286677b953b5605753eb1ca7"
+    },
+    {
+      "file": "Jade-1.20-Fabric-11.13.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0217.jar",
+      "sha1": "cf46f3ddc2a5b9751750671da26b48b20e93836b"
+    },
+    {
+      "file": "JadeAddons-1.20.1-Fabric-5.5.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0218.jar",
+      "sha1": "ab09ea7ddf1dfce501269109bbd7ec32e199f160"
+    },
+    {
+      "file": "jamlib-fabric-1.3.5+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0219.jar",
+      "sha1": "55850420addaeed88101d63eb1c96d4d924bf456"
+    },
+    {
+      "file": "Jewelry-1.3.7+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0220.jar",
+      "sha1": "4943324eb735305ae42e619a78d11e5136e1d321"
+    },
+    {
+      "file": "justhammers-fabric-20.1.5+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0221.jar",
+      "sha1": "f250d3ad5739bb95549bafbdc2d1c36605ef9362"
+    },
+    {
+      "file": "kibe-1.10.1-BETA+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0222.jar",
+      "sha1": "cf5035be0524cd5e7447af39c752aae174c28b15"
+    },
+    {
+      "file": "kleeslabs-fabric-1.20-15.0.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0223.jar",
+      "sha1": "6d48ad12a53b7ed9c6218da0eadf975b18ba1a26"
+    },
+    {
+      "file": "konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0224.jar",
+      "sha1": "38d3201d95a08bdeb12a8cd3687c6d0b8f5e7f3d"
+    },
+    {
+      "file": "lambdynamiclights-4.4.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0225.jar",
+      "sha1": "eeab178cb91f18bc72f990c2097b5f0103f01c06"
+    },
+    {
+      "file": "language-reload-1.7.5+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0226.jar",
+      "sha1": "d825fcd495bcf53ab9ed3974a57f87b4d56d6a26"
+    },
+    {
+      "file": "lazy-language-loader-0.3.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0227.jar",
+      "sha1": "6273d4bfd443d5f8ce9b039602da5f6fb9107f62"
+    },
+    {
+      "file": "LeavesBeGone-v8.0.0-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0228.jar",
+      "sha1": "ba9bef859e585a25818c46113d3f33a42f0048a8"
+    },
+    {
+      "file": "leawind_third_person-v2.2.0-mc1.20-1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0229.jar",
+      "sha1": "55b58e22003e4a7900765add418646a3d03be8f1"
+    },
+    {
+      "file": "LegendaryTooltips-1.20.1-fabric-1.4.5.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0230.jar",
+      "sha1": "64170c3a1b42b8f8c430d4f2400644f8131a47a1"
+    },
+    {
+      "file": "letsdo-API-fabric-1.2.15-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0231.jar",
+      "sha1": "75fe2c9ee62ed131620c0dfb4be8a9cad616eec0"
+    },
+    {
+      "file": "letsdo-brewery-fabric-1.1.9.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0232.jar",
+      "sha1": "1a4e55678c4f679526f2ea252329b6d5aa12d7b8"
+    },
+    {
+      "file": "letsdo-herbalbrews-fabric-1.0.12.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0233.jar",
+      "sha1": "9776b9cd5c06dd76fc7d4b75de971eec9d84bb26"
+    },
+    {
+      "file": "letsdo-vinery-fabric-1.4.41.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0234.jar",
+      "sha1": "3e65b576e50b6c1ffdd8213ecc43bf91f1477785"
+    },
+    {
+      "file": "libz-1.0.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0235.jar",
+      "sha1": "bdd66120c88a66de9c1ec997404ad5121b3f2f7f"
+    },
+    {
+      "file": "lithium-fabric-mc1.20.1-0.11.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0236.jar",
+      "sha1": "048227ed60a3005cf9fa55880dfe0cf20b0ba680"
+    },
+    {
+      "file": "lithostitched-fabric-1.20.1-1.4.11.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0237.jar",
+      "sha1": "c5e75450633aa9f79f2023e897c2726ba5f8d808"
+    },
+    {
+      "file": "lmft-1.1.1+1.21.9-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0238.jar",
+      "sha1": "9ec52b054e91c7f0a0a37edd4b2a3832699135dc"
+    },
+    {
+      "file": "loadmyresources_fabric_1.0.4-1_MC_1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0239.jar",
+      "sha1": "9d873d3ac0a95de8dcd29cdde362b7fe72c4dc04"
+    },
+    {
+      "file": "Log-Begone-Fabric-1.20.1-1.0.8.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0240.jar",
+      "sha1": "f1c697ffcf7ec79e458b3af3d32392d75bf2caff"
+    },
+    {
+      "file": "lootintegrations-fabric-1.20.1-4.7.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0241.jar",
+      "sha1": "7d8bdb6c9613f9b5b4ea2623f402c17a6d12bdb8"
+    },
+    {
+      "file": "lootintegrations_integrated-1.5.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0242.jar",
+      "sha1": "12c262276385db1dc3188fbcb1aedff15550208b"
+    },
+    {
+      "file": "lootintegrations_moog-2.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0243.jar",
+      "sha1": "9eff22d61cfa3612b488b796046d3a0c4aa18cb3"
+    },
+    {
+      "file": "lootr-fabric-1.20-0.7.35.86.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0244.jar",
+      "sha1": "7750c9abdc5b0e023b69461e9d0350fbfb066fda"
+    },
+    {
+      "file": "ltxtbfix-1.20.1-fabric-1.0.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0245.jar",
+      "sha1": "3b3c2bd8d2520f2a073ae4445995cb6cb1dcb0c0"
+    },
+    {
+      "file": "MagnumTorch-v8.0.2-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0246.jar",
+      "sha1": "194fa271356f83b75d4a4c9cca2856ee52556e05"
+    },
+    {
+      "file": "mcda-5.0.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0247.jar",
+      "sha1": "b65ccedcc1323b02eb66433e0c8c99c7ddcfe7b9"
+    },
+    {
+      "file": "mcdw-9.0.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0248.jar",
+      "sha1": "3412ce494badd3b583d2f7c9a3460511db38d11b"
+    },
+    {
+      "file": "mcw-holidays-1.1.2-mc1.20.1fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0249.jar",
+      "sha1": "18fcc81db1eb0f95b6fc87d1ee810f0562f18d4c"
+    },
+    {
+      "file": "megacells-fabric-2.4.6-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0250.jar",
+      "sha1": "5838fad5b38552b607d93bb8c1fc6040929b2c55"
+    },
+    {
+      "file": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0251.jar",
+      "sha1": "15eeff0c0fd8b4734492915c656077592b2d9e67"
+    },
+    {
+      "file": "memorysettings-fabric-1.20.1-5.9.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0252.jar",
+      "sha1": "38e3f890d743b71d48f749fba8bcdd618209ef47"
+    },
+    {
+      "file": "merequester-fabric-1.20.1-1.1.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0253.jar",
+      "sha1": "83af552ca49a5fea68687bf4c12986d48755fa2d"
+    },
+    {
+      "file": "midnightlib-fabric-1.9.2+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0254.jar",
+      "sha1": "40abb8a47d30f387a3c2110fc23ea0c364034c09"
+    },
+    {
+      "file": "MindfulDarkness-v8.0.3-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0255.jar",
+      "sha1": "1dfd349b98ccba31a0da2e551e8caed439dc4b56"
+    },
+    {
+      "file": "minecells-2.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0256.jar",
+      "sha1": "74ce0ae2e42f7d8b2a9497c3497c3f885bf773a9"
+    },
+    {
+      "file": "mixintrace-1.1.1+1.17.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0257.jar",
+      "sha1": "7fbb0130db0e427ee7180d304dfa65c46f0e3b69"
+    },
+    {
+      "file": "Mmm_Indicators-MC1.20.1-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0258.jar",
+      "sha1": "d6119227a11e1e15f9de11af0995fbecb1e6b297"
+    },
+    {
+      "file": "mobhealthbar-fabric-1.20.x-2.3.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0259.jar",
+      "sha1": "07b7f6a929c42a815d5fd32cd62b628b6f0df296"
+    },
+    {
+      "file": "mobs_of_mythology-fabric-1.20.1-2.1.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0260.jar",
+      "sha1": "5a0f34cdb6d43c5d6a6417997d9d8c4dffab890c"
+    },
+    {
+      "file": "Modern-Industrialization-1.8.6.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0261.jar",
+      "sha1": "cf1f266420d1cd3776fef05a5ec690802268656a"
+    },
+    {
+      "file": "modernfix-fabric-5.24.3+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0262.jar",
+      "sha1": "4709074c94ed778bb6f8bdf2fe94a426b48bec25"
+    },
+    {
+      "file": "modmenu-7.2.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0263.jar",
+      "sha1": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
+    },
+    {
+      "file": "modpack-update-checker-1.20.1-fabric-0.15.6.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0264.jar",
+      "sha1": "5acd6bafbdde41d3d6b025772b4eacce5a710e0f"
+    },
+    {
+      "file": "MoogsEndStructures-universal-1.20-2.1.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0265.jar",
+      "sha1": "a581935313f819fe67bbe810e03fb8a44b356089"
+    },
+    {
+      "file": "MoogsStructureLib-fabric-1.20-3.1.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0266.jar",
+      "sha1": "66f1ac9d2c0352ad646e16e155c980197ed061b0"
+    },
+    {
+      "file": "MoogsVoyagerStructures-universal-1.20-5.1.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0267.jar",
+      "sha1": "839c3f7538c9adf972d49d1d18db234bd2479950"
+    },
+    {
+      "file": "moonlight-1.20-2.16.28-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0268.jar",
+      "sha1": "bf9286b0eef1f2c9cca327bc25d4be3c6b240a83"
+    },
+    {
+      "file": "more_armor_trims-1.5.4-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0269.jar",
+      "sha1": "d61507db8c09ca1fa496a339dc929ed7cf0b3200"
+    },
+    {
+      "file": "more_rpg_classes-1.2.22-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0270.jar",
+      "sha1": "ad50ac9522a9b5191d3fd1633a0a4ff60be3b3be"
+    },
+    {
+      "file": "moremobvariants-fabric+1.20.1-1.3.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0271.jar",
+      "sha1": "9163c0ac4e4ec71f9c4989a0e3614c248222af8c"
+    },
+    {
+      "file": "MouseTweaks-fabric-mc1.20-2.26.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0272.jar",
+      "sha1": "6a6b977e671b1ab625e740fc70fb5300c21bb841"
+    },
+    {
+      "file": "mousetweaks-x-accessories-fix-1.4.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0273.jar",
+      "sha1": "4d47eea1921f4f2b2b8967487f287df0f3b26cfe"
+    },
+    {
+      "file": "mutant-skeleton-armor-tweaks-fabric-3.0.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0274.jar",
+      "sha1": "57d314ebe8e71575eaedc70e01fd1e65046cb73e"
+    },
+    {
+      "file": "MutantMonsters-v8.0.8-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0275.jar",
+      "sha1": "c697d776ff761b98fa4da289502a173feda06cba"
+    },
+    {
+      "file": "mythic-mounts-1.20.1-7.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0276.jar",
+      "sha1": "95e811ab49cb4fc579258270a84648c325a2b80a"
+    },
+    {
+      "file": "mythicupgrades-4.2.0+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0277.jar",
+      "sha1": "20977e8848b8920e6559c2d5af588594bd593b04"
+    },
+    {
+      "file": "naturalist-5.0pre5+fabric-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0278.jar",
+      "sha1": "7551b26743045ec55f570b30d0e2d6d3bcc143ca"
+    },
+    {
+      "file": "NaturesCompass-1.20.1-2.6.0-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0279.jar",
+      "sha1": "632368dbfe05d11addc7e6bb6a7a5cc7e60e7828"
+    },
+    {
+      "file": "Necronomicon-Fabric-1.6.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0280.jar",
+      "sha1": "86e4ba3727be9ef8816844aa15f45db099ecb858"
+    },
+    {
+      "file": "Neruina-2.3.1-beta.1-fabric+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0281.jar",
+      "sha1": "4cf4580d4cc63ba7ad114815b4ef403c8eface88"
+    },
+    {
+      "file": "netherportalfix-fabric-1.20-13.0.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0282.jar",
+      "sha1": "7fe5d31eb0b6fd8d9774ef42abed4bf34898b3ad"
+    },
+    {
+      "file": "newblahaj-1.1.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0283.jar",
+      "sha1": "dc1959b65afbc4350252462c5f915fb7d53ef383"
+    },
+    {
+      "file": "NightConfigFixes-v8.0.0-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0284.jar",
+      "sha1": "cfdaacb6252b51e92362a15cc7a0212b1a225780"
+    },
+    {
+      "file": "no-report-button-fabric-1.5.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0285.jar",
+      "sha1": "11363303661a54cc14376e23cbc32c189dbae92a"
+    },
+    {
+      "file": "Not Enough Recipe Book-FABRIC-0.4.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0286.jar",
+      "sha1": "9088cb96c16372b339ca7f5b6e928938ebf97442"
+    },
+    {
+      "file": "notenoughanimations-fabric-1.11.3-mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0287.jar",
+      "sha1": "e7208cf7fbd8ff97c20446be454f17e7c4177812"
+    },
+    {
+      "file": "Obscure-API-16.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0288.jar",
+      "sha1": "0272d0e5ddddd63a57b27130f3e317efb60ef509"
+    },
+    {
+      "file": "OctoLib-FABRIC-0.5.0.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0289.jar",
+      "sha1": "ea6763c11aac7635d9812dbccccba0d10b797a1d"
+    },
+    {
+      "file": "offhandtickfix-fabric-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0290.jar",
+      "sha1": "3d9f700e64059288aab9394d574762d85651a49e"
+    },
+    {
+      "file": "OnlyExcavators-1.20.1-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0291.jar",
+      "sha1": "f40c6dbceee1588762f2793a10255a4d1d6ff1f2"
+    },
+    {
+      "file": "opac_fixes-1.1.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0292.jar",
+      "sha1": "a37b100874dcb071c3ce9f6fbcc1591ad977a652"
+    },
+    {
+      "file": "opacpvp-fabric-1.0.1-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0293.jar",
+      "sha1": "202987c41993094dcea283e51f266f197381bfa7"
+    },
+    {
+      "file": "opacui-fabric-1.20.1-1.0.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0294.jar",
+      "sha1": "541f1cd427ceeee0f52a130943652bac5d692e57"
+    },
+    {
+      "file": "open-parties-and-claims-fabric-1.20.1-0.25.10.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0295.jar",
+      "sha1": "364c93922de0c32d0222d4e9917ae09bfb9a9dc2"
+    },
+    {
+      "file": "openblockselevator-0.0.3-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0296.jar",
+      "sha1": "7a6a9f8c95d8d444d5d3ec7cd61fa5bba502eb71"
+    },
+    {
+      "file": "owo-lib-0.11.2+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0297.jar",
+      "sha1": "be88938ca5df78271e64bc9f85c3575754f33e2a"
+    },
+    {
+      "file": "oxidized-1.8.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0298.jar",
+      "sha1": "4a558272d318212a92bf81ceaa7bb78d865582aa"
+    },
+    {
+      "file": "packetfixer-3.3.2-1.18-1.20.4-merged.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0299.jar",
+      "sha1": "79ebc5e66a5ee3ce92afb340e693d506e97361a0"
+    },
+    {
+      "file": "paladins-1.4.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0300.jar",
+      "sha1": "0285345ee8b3f4684a64b9e2c011b965e7d4b9a3"
+    },
+    {
+      "file": "Patchouli-1.20.1-85-FABRIC.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0301.jar",
+      "sha1": "0a77a88d465f4b14c376cbafa5c393507a97fe21"
+    },
+    {
+      "file": "Paxi-1.20-Fabric-4.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0302.jar",
+      "sha1": "21ef7cc460c6c1fd15443a69f77b165a4096b135"
+    },
+    {
+      "file": "Pehkui-3.8.3+1.14.4-1.21.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0303.jar",
+      "sha1": "3ce548910f0aa2cef79dc333982493ccf8d73a3e"
+    },
+    {
+      "file": "PhilipsRuins1.20.1-5.7-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0304.jar",
+      "sha1": "762ed8d4fb46ca53d47f29718cd13e27fd440d71"
+    },
+    {
+      "file": "PickUpNotifier-v8.0.0-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0305.jar",
+      "sha1": "1b7884c545556c4b693353ed4cff64aa29d8eb9c"
+    },
+    {
+      "file": "Ping-Wheel-1.12.1-fabric-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0306.jar",
+      "sha1": "b16ceaad9a5c1bd778743446ca98e6b98ce89aee"
+    },
+    {
+      "file": "piratesdoom-1.0.0-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0307.jar",
+      "sha1": "e4bf9adac37d98b1d5c8a1237ee4a9a6f98113d9"
+    },
+    {
+      "file": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0308.jar",
+      "sha1": "9182c38bcf614d0ed7091b15f7e099a7f2fb3617"
+    },
+    {
+      "file": "polyeng-fabric-0.1.1-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0309.jar",
+      "sha1": "dffc090755c54f0f99f10fd3bdc083b537e82ff3"
+    },
+    {
+      "file": "polymorph-fabric-0.49.10+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0310.jar",
+      "sha1": "2ffcd9f030e4bb1fe202710cbd945c7f44f880cf"
+    },
+    {
+      "file": "Powah-5.0.11.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0311.jar",
+      "sha1": "8885884da9e4470520faed11347507e3195e642d"
+    },
+    {
+      "file": "PresenceFootsteps-1.10.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0312.jar",
+      "sha1": "8f88195dea52509564fabc3dfac966b09290d905"
+    },
+    {
+      "file": "Prism-1.20.1-fabric-1.0.5.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0313.jar",
+      "sha1": "cd169ef91788fed7e1025e5d2273d61978898e52"
+    },
+    {
+      "file": "projectile_damage-fabric-3.2.3+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0314.jar",
+      "sha1": "eee3c5e0a04ade8d52a5d51ef5826dc2577ec337"
+    },
+    {
+      "file": "promenade-4.1.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0315.jar",
+      "sha1": "a3386873538f4ca28f4761456d7461a4c846d892"
+    },
+    {
+      "file": "Prominent-GLOBAL-MC1.20.1-4.1.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0316.jar",
+      "sha1": "53cdeef01a0c1a11c85213f1ab368d45badcf28f"
+    },
+    {
+      "file": "Prominent_OST-GLOBAL-MC1.20.1-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0317.jar",
+      "sha1": "49e96f6600199775147a0047c566d5851199c3cb"
+    },
+    {
+      "file": "puffish_attributes-0.8.2-1.20-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0318.jar",
+      "sha1": "2f0bc1ab286f88f3f86b46a4e0466e59aa7a8ef1"
+    },
+    {
+      "file": "puffish_skills-0.17.3-1.20-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0319.jar",
+      "sha1": "0c0877e606fbf7bd2f2189ccc2faefabe239c004"
+    },
+    {
+      "file": "PuzzlesLib-v8.1.33-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0320.jar",
+      "sha1": "13282e818c9b5d20ba9f50949e3776d678d6926d"
+    },
+    {
+      "file": "quartz-elevator-2.2.7+1.20.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0321.jar",
+      "sha1": "ef93268eb8caaebddaa4bcdc616c378a79636242"
+    },
+    {
+      "file": "Quest Kill Task-0.2.0+1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0322.jar",
+      "sha1": "600a2a128c15462ab09a2453a838570a04b148b8"
+    },
+    {
+      "file": "quests_teams_fixes-fabric-1.0.2+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0323.jar",
+      "sha1": "4bcd7b7e3ce02a114545e7bad52786cfb90a9de6"
+    },
+    {
+      "file": "ranged_weapon_api-1.1.4+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0324.jar",
+      "sha1": "0766a20408c19c5abed47784220f9d33fbac22dd"
+    },
+    {
+      "file": "reacharound+1.20-1.3.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0325.jar",
+      "sha1": "8f39f7b3692a632befd8bb1983be5842522a3278"
+    },
+    {
+      "file": "reactivemusic-1.2.2+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0326.jar",
+      "sha1": "dc5becfa20fb07f4340b5977ffb49d1dcdb9a29b"
+    },
+    {
+      "file": "ReBalance-FABRIC-1.2.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0327.jar",
+      "sha1": "42dfe3160385c579b71a0df227593cb7587d3fdc"
+    },
+    {
+      "file": "RebornCore-5.8.14.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0328.jar",
+      "sha1": "37ecbb813d15e5bd347da2c39227c194673e1948"
+    },
+    {
+      "file": "recipeessentials-fabric-1.20.1-4.7.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0329.jar",
+      "sha1": "fda9c8c593cdf94238eef410b8a173612b6694fc"
+    },
+    {
+      "file": "recipesplitter-1.0-SNAPSHOT.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0330.jar",
+      "sha1": "5245c6245decec2b72c80375cdb6b3d5e356e7aa"
+    },
+    {
+      "file": "redirected-fabric-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0331.jar",
+      "sha1": "3f7ced13e94394b12cb6d6092aba7cf0d884b748"
+    },
+    {
+      "file": "reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0332.jar",
+      "sha1": "206f1b01b99ac3df99ddd84ed96b466a8700412d"
+    },
+    {
+      "file": "RegionsUnexploredFabric-0.5.6+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0333.jar",
+      "sha1": "3b5df7c76431a47d80669f5c1be07136c3e160c0"
+    },
+    {
+      "file": "ResistanceBalancer-FABRIC-1.1.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0334.jar",
+      "sha1": "647c8dedea3da094102a93c65aedfcc1d63797aa"
+    },
+    {
+      "file": "resourcefulconfig-fabric-1.20.1-2.1.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0335.jar",
+      "sha1": "d351fd7247c8adc0fe41d6b3a04bf869fdf4ddbc"
+    },
+    {
+      "file": "resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0336.jar",
+      "sha1": "e1d85a3100c2f3683a65dca20518e3914d82b0f0"
+    },
+    {
+      "file": "ResourcePackOverrides-v8.0.3-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0337.jar",
+      "sha1": "4caf15fe7fd80186f5bb414ec61628f094570a17"
+    },
+    {
+      "file": "riverredux-0.3.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0338.jar",
+      "sha1": "2abd29414ad41aaa330a37a18f51a6b2e62db95f"
+    },
+    {
+      "file": "rogues-1.2.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0339.jar",
+      "sha1": "de43a6cfb24127ecb47aeca18af5f201c47bc61b"
+    },
+    {
+      "file": "rpg-minibosses-1.9.2+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0340.jar",
+      "sha1": "dda0929588613e9f1a55c884d7e619506339231c"
+    },
+    {
+      "file": "runes-0.9.13+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0341.jar",
+      "sha1": "9a13275dc0cf1c092fda619bfb88415fee7e2e67"
+    },
+    {
+      "file": "s-lib-fabric-2.1.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0342.jar",
+      "sha1": "5c66dedf55ad88488c4a6343cc6301442f57df6c"
+    },
+    {
+      "file": "satisfying_buttons-fabric-1.1.2-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0343.jar",
+      "sha1": "858fc0bf84af02d97fc5f2ff712ebbee39b2f2ad"
+    },
+    {
+      "file": "Searchables-fabric-1.20.1-1.0.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0344.jar",
+      "sha1": "3fe28bfd8de8f13adeefb4dd5c9a8f97b233a0a1"
+    },
+    {
+      "file": "ServerBrowser-1.20.1-FABRIC-1.3.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0345.jar",
+      "sha1": "2e5d52037a8e8009f3e1fde1cef4dd2acbd85cb5"
+    },
+    {
+      "file": "shield_overhaul-2.0.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0346.jar",
+      "sha1": "8cc1df0d7e334ab9de44aeef82776b8b48b56bbf"
+    },
+    {
+      "file": "ShieldAPI-1.0.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0347.jar",
+      "sha1": "3eff6896e92094df2fefc8175f8416d0532eec53"
+    },
+    {
+      "file": "ShowMeWhatYouGot-1.20-1.1.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0348.jar",
+      "sha1": "ffbce7e75dbede02dd9f86fc8fb543598d1c336d"
+    },
+    {
+      "file": "shut-up-mcd-1.2.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0349.jar",
+      "sha1": "356297767da64864c71cc13ff6184dfa12856b45"
+    },
+    {
+      "file": "simple_snowy_fix-fabric-1.19-1.21-2.1.5.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0350.jar",
+      "sha1": "dd9ac62ab49cd4b36790b83cee259b819927ecd1"
+    },
+    {
+      "file": "SimpleDiscordRichPresence-fabric-4.0.3-build.40+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0351.jar",
+      "sha1": "2c38bd166aadfd63a946de2a768eef6c99a7cf0b"
+    },
+    {
+      "file": "simply_swords_tweaks-fabric-2.0.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0352.jar",
+      "sha1": "cfdee295e5e9b015dca512c02735e54af4ebbcab"
+    },
+    {
+      "file": "simplybows-0.1.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0353.jar",
+      "sha1": "edcd84e28295a71364b0cdbe63f5cb155e9f1599"
+    },
+    {
+      "file": "SimplyHouses-1.1.4-1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0354.jar",
+      "sha1": "de7a399fcddce48dce4bfb6c7a941d70e3b52f17"
+    },
+    {
+      "file": "simplyskills-1.7.2+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0355.jar",
+      "sha1": "34cf56aa27a6b238e1a4ef9d4d179902f7dd1b3f"
+    },
+    {
+      "file": "simplyswords-fabric-1.70.2-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0356.jar",
+      "sha1": "902fd3ac7558bebb249f61572227d499f51b3bde"
+    },
+    {
+      "file": "SimplyTooltips-fabric-0.1.5-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0357.jar",
+      "sha1": "754b2989e11389f99a032b9031e28b90d8f63205"
+    },
+    {
+      "file": "skinlayers3d-fabric-1.11.2-mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0358.jar",
+      "sha1": "d5126c206e01866165716fdb08eb5a92910daea1"
+    },
+    {
+      "file": "SkyVillages-1.0.4-1.19.2-1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0359.jar",
+      "sha1": "40917a08d8738e52593980c9a530af676153d51f"
+    },
+    {
+      "file": "smart_tooltip_scroll-fabric-2.3.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0360.jar",
+      "sha1": "ee317034b838e5ddbc19ae0697d501ec9a570c3e"
+    },
+    {
+      "file": "SmartBrainLib-fabric-1.20.1-1.15.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0361.jar",
+      "sha1": "6abaa9601d02c9941134fa310a7a3665d9bad285"
+    },
+    {
+      "file": "smoothchunk-fabric-1.20.1-4.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0362.jar",
+      "sha1": "1136d8d1ebc37dc7754f22ebe7ee24ac91166ce3"
+    },
+    {
+      "file": "smwyg-fix-1.0.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0363.jar",
+      "sha1": "8fa5bfa983b1d9a034e47611ab6e76d45898e3f8"
+    },
+    {
+      "file": "sodium-extra-0.5.9+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0364.jar",
+      "sha1": "0f97ec3f395b223848a63573b1a46cbecf97f19f"
+    },
+    {
+      "file": "sodium-fabric-0.5.13+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0365.jar",
+      "sha1": "bcdbf37d9494e405cba210d7a80ed58e756297b5"
+    },
+    {
+      "file": "sodiumextras-fabric-1.0.7-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0366.jar",
+      "sha1": "415f6d815b673f6d719c55a7caaa44e03f62bf56"
+    },
+    {
+      "file": "sodiumoptionsapi-fabric-1.0.10-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0367.jar",
+      "sha1": "dc188678ffaceacf6d03a2d693af9a2ac4ed69f5"
+    },
+    {
+      "file": "sollib-fabric-1.20.1-1.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0368.jar",
+      "sha1": "928bfe1c9f793ce2c6e38801ed816c4129ee22da"
+    },
+    {
+      "file": "sorted_enchantments-2.0.0+1.19.3+fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0369.jar",
+      "sha1": "e0cd809dc3bb7973f21325437f7e4e17ba04787d"
+    },
+    {
+      "file": "Sortilege-1.20.1-9.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0370.jar",
+      "sha1": "686a215d148005a925861b28cf012d95a2b2ed6e"
+    },
+    {
+      "file": "soulmaster-1.0.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0371.jar",
+      "sha1": "52323a0602776359061cd2733fd8b9237b16f0d6"
+    },
+    {
+      "file": "soulslike-weaponry-1.3.1-1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0372.jar",
+      "sha1": "d243144eda63a0f5bf1b416db2280f89d08ea4f5"
+    },
+    {
+      "file": "spark-1.10.53-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0373.jar",
+      "sha1": "252de323db10d2b49ef74f8e7a6a5c72929be140"
+    },
+    {
+      "file": "spell_engine-0.15.12+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0374.jar",
+      "sha1": "beb07c4466257c32821c8461d52e121931e85de2"
+    },
+    {
+      "file": "Spell_Engine_OPAC_Compat-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0375.jar",
+      "sha1": "08e32c38b022dff2cc8179550008ec63f79540a0"
+    },
+    {
+      "file": "spell_power-0.12.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0376.jar",
+      "sha1": "777fcfb31857f233977172370fd612d087650f94"
+    },
+    {
+      "file": "spellbladenext-2.3.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0377.jar",
+      "sha1": "e1624284d3b9678128d5b33b3b15d6170374ab34"
+    },
+    {
+      "file": "StackDeobfuscatorFabric-1.4.3+08e71cc.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0378.jar",
+      "sha1": "c36982af69e6d9d9dbac52e4d6c43e8a64fc6163"
+    },
+    {
+      "file": "stateobserver-fabric-1.20.1-1.4.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0379.jar",
+      "sha1": "f243afd1975c5bd787c7117db8abe678a28db7d0"
+    },
+    {
+      "file": "Steam_Rails-1.7.3+fabric-mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0380.jar",
+      "sha1": "5c0a076d5b1685fc38de2ffb96501748ceb25f9b"
+    },
+    {
+      "file": "Stoneworks-v8.0.0-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0381.jar",
+      "sha1": "aa3cf672107f9707425ee9f80f15fbaeaf493f94"
+    },
+    {
+      "file": "structure_pool_api-1.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0382.jar",
+      "sha1": "4af199a3930dc5b1d343a7824b69063d240f0c0f"
+    },
+    {
+      "file": "structureessentials-fabric-1.20.1-5.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0383.jar",
+      "sha1": "eea280bb1ef2ac2d303aa2877c570396927468cd"
+    },
+    {
+      "file": "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0384.jar",
+      "sha1": "964df96c16afe775efd467b22f24458915805ad8"
+    },
+    {
+      "file": "supplementaries-1.20-3.1.43-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0385.jar",
+      "sha1": "e297cedaf6d64e80579bd6974260ef8759a911c3"
+    },
+    {
+      "file": "swampier_swamps-1.20-4.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0386.jar",
+      "sha1": "a2576244ffc709106789c82609b2a28178448913"
+    },
+    {
+      "file": "tbtransmog_compat-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0387.jar",
+      "sha1": "fed56d10a00daa650a0b649cd6288ab7e275f668"
+    },
+    {
+      "file": "TechReborn-5.8.14.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0388.jar",
+      "sha1": "3a7f907b5da70e3fc114493c17ee7518042cf14b"
+    },
+    {
+      "file": "TerraBlender-fabric-1.20.1-3.0.1.10.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0389.jar",
+      "sha1": "bc61e5ac5ec75f33827b65942df6d533c8d166e3"
+    },
+    {
+      "file": "thaumon-fabric-2.3.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0390.jar",
+      "sha1": "4160788cce0b4febd49d6699455dd4e2e8deaa88"
+    },
+    {
+      "file": "the_bumblezone-7.9.10+1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0391.jar",
+      "sha1": "098927fb0155a28c4d3e6cea78b36a8be1af52d2"
+    },
+    {
+      "file": "The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0392.jar",
+      "sha1": "a5cb5de7f0cb9931cae5526eb310e4c3017b7cfe"
+    },
+    {
+      "file": "thermoo-2.3.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0393.jar",
+      "sha1": "55b3ebab5898d078dd2a858015df67611553356f"
+    },
+    {
+      "file": "things-0.3.3+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0394.jar",
+      "sha1": "7c1df2914ddda8b22b93d8823b8c5f3a7076afd4"
+    },
+    {
+      "file": "Tierify-FABRIC-1.20.1-1.2.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0395.jar",
+      "sha1": "d518fb9afefbd23acc9c0a41c5f7752cda5e7c55"
+    },
+    {
+      "file": "TinySkeletons-v8.0.1-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0396.jar",
+      "sha1": "f91764a744e282fc8656142eaaf13966e6add76c"
+    },
+    {
+      "file": "tlc-fabric-1.0.1-1.20.X.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0397.jar",
+      "sha1": "f5ccb478e0bf9a8c38615858c830b75ee76767b1"
+    },
+    {
+      "file": "toofast-fabric-1.20-1.2.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0398.jar",
+      "sha1": "f28b24f929ffbf960e096fa0327d0d318cb851b3"
+    },
+    {
+      "file": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0399.jar",
+      "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b"
+    },
+    {
+      "file": "TradingPost-v8.0.2-1.20.1-Fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0400.jar",
+      "sha1": "9607ab265701c88e7d4568f5e9318c59ca494880"
+    },
+    {
+      "file": "transmog-fabric-1.3.0+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0401.jar",
+      "sha1": "abb0563086c258941355b4f092b3a4c18b91896f"
+    },
+    {
+      "file": "transparent-fabric-8.0.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0402.jar",
+      "sha1": "77747ddaed3bd65e17f7b077442a0e68892a0ea2"
+    },
+    {
+      "file": "travelersbackpack-fabric-1.20.1-9.1.55.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0403.jar",
+      "sha1": "b935d2baeac518ac2b1aa20aaa535e1e03f62a25"
+    },
+    {
+      "file": "TreeChop-1.20.1-fabric-0.19.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0404.jar",
+      "sha1": "2b2821168355d9c96fcd26d59c4138ac9d155f00"
+    },
+    {
+      "file": "trinkets-3.7.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0405.jar",
+      "sha1": "d58cc8759587f03f320f188972ca66baa788d008"
+    },
+    {
+      "file": "twigs-3.1.0-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0406.jar",
+      "sha1": "44b3fbfa9c70104b08e7c474e57234dc3b560bdd"
+    },
+    {
+      "file": "txnilib-fabric-1.0.24-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0407.jar",
+      "sha1": "ef3d09633f44a6a7ee818c9872cb12472bc420ba"
+    },
+    {
+      "file": "unrestricted_enchanting-fabric-1.0.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0408.jar",
+      "sha1": "ee3a76413016de798ab37326e24e302634483a13"
+    },
+    {
+      "file": "unsafe-world-random-access-detector-1.1.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0409.jar",
+      "sha1": "c344c801f41b767c99ab7b0139ed72c7f86647f1"
+    },
+    {
+      "file": "veinmining-fabric-1.5.0+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0410.jar",
+      "sha1": "ce6cb2fde3383c5a5e67e268d7ad060988a88e28"
+    },
+    {
+      "file": "villagernames-1.20.1-8.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0411.jar",
+      "sha1": "249a964cc0f21c5c4dc339f4b2221eeebd6e1b4b"
+    },
+    {
+      "file": "VillagersPlus_3.1_(FABRIC)_for_1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0412.jar",
+      "sha1": "9f761a0446dddf49db5e1067c5bcbcfc71d4d9b8"
+    },
+    {
+      "file": "visuality-0.7.1+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0413.jar",
+      "sha1": "a4a5fc1edae49126432fc903dd6fdbb88b7251ed"
+    },
+    {
+      "file": "vitalityfix-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0414.jar",
+      "sha1": "90f88ef6c03f0b55ddbfb2e29f7750a080d4f802"
+    },
+    {
+      "file": "watut-fabric-1.20.1-1.2.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0415.jar",
+      "sha1": "e3b5da7d097e95d5b8c244f8f6c7947e1f5fdf92"
+    },
+    {
+      "file": "welcomescreen-fabric-1.0.0-1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0416.jar",
+      "sha1": "76ac08b9a9cbce4b475283ea9145c78338490624"
+    },
+    {
+      "file": "windchimes-1.2.4+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0417.jar",
+      "sha1": "98aa3508f6537ceddba1032812e4625df931f0f8"
+    },
+    {
+      "file": "winterly-0.9.3+1.20.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0418.jar",
+      "sha1": "6586e290b065930d0560a0f2cd459d8a324e0ac3"
+    },
+    {
+      "file": "wither_spawn_fix-MC1.20.1-1.0.0.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0419.jar",
+      "sha1": "91f6272c914b3b69f14080749a7f6b88ee6e9af7"
+    },
+    {
+      "file": "wizards-1.4.1+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0420.jar",
+      "sha1": "f898ae53feaf42c0f14fb2b12ac52df84e215d8f"
+    },
+    {
+      "file": "wraith-waystones-3.3.3+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0421.jar",
+      "sha1": "ac9364386ec7d2db1701c02f8774085ee7ebe6c7"
+    },
+    {
+      "file": "xaerominimap-fabric-1.20.1-25.3.10.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0422.jar",
+      "sha1": "2fc54c6af762147657ec0c06c03e2fd0339783ee"
+    },
+    {
+      "file": "xaeroworldmap-fabric-1.20.1-1.40.11.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0423.jar",
+      "sha1": "b4f34e57f3bca8b98bf445e870e0acd1bd60856d"
+    },
+    {
+      "file": "YeetusExperimentus-Fabric-2.3.1-build.6+mc1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0424.jar",
+      "sha1": "bc2e21c296832260f229bad759e803c5795f9cb4"
+    },
+    {
+      "file": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0425.jar",
+      "sha1": "dc5ac6c6c4d1e48e8e520b9a41b41e704e82cf55"
     },
     {
       "file": "yosbr-0.1.2.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/Banquise-Mods/main/mods/yosbr-0.1.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0426.jar",
       "sha1": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
+    },
+    {
+      "file": "youre-in-grave-danger-fabric-2.0.16.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0427.jar",
+      "sha1": "b396513f5e9bb8c2e0adf00e011011cf7d90a0b3"
+    },
+    {
+      "file": "YouShallNotSpawn-fabric-1.20.x-2.0.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0428.jar",
+      "sha1": "6ae7a59c180302a3dfa83611dbdbea6305a28547"
+    },
+    {
+      "file": "YungsApi-1.20-Fabric-4.0.6.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0429.jar",
+      "sha1": "8d39c739b534e7351e9fdabf045f171a4e45c98a"
+    },
+    {
+      "file": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0430.jar",
+      "sha1": "b8de6410b1ae57a49848f172d5310dc79e731b25"
+    },
+    {
+      "file": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0431.jar",
+      "sha1": "cb4ea32fe75c9dbcd62f6f3d3f912c1b79ac697a"
+    },
+    {
+      "file": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0432.jar",
+      "sha1": "169bc72b247240b79cad00751e2d5a2b7493a389"
+    },
+    {
+      "file": "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0433.jar",
+      "sha1": "e0c5366159af63c1a0b110ce1a62750d3d75d978"
+    },
+    {
+      "file": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0434.jar",
+      "sha1": "dda3af404d6958f6fed882b8b4ae7827ac78944b"
+    },
+    {
+      "file": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0435.jar",
+      "sha1": "837560db615bad870809e09436e943c4324301d1"
+    },
+    {
+      "file": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0436.jar",
+      "sha1": "e4e512ae388a57d4eb383657e52707c01283d7be"
+    },
+    {
+      "file": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0437.jar",
+      "sha1": "2803abcf20bf150aa735faa409a23406da69415c"
+    },
+    {
+      "file": "YungsBridges-1.20-Fabric-4.0.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0438.jar",
+      "sha1": "e6be5c5fb116b50ff75910015b19fcc6dadaf4e6"
+    },
+    {
+      "file": "zenith_attributes_renewed-1.0.3.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0439.jar",
+      "sha1": "ba89db16a5e6390941089072fc15b17811aa8e5e"
+    },
+    {
+      "file": "zenith_renewed-2.0.2.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0440.jar",
+      "sha1": "6d6524da092a9bf81f08b921b21cca21a83ebfd7"
+    },
+    {
+      "file": "Zoomify-2.14.2+1.20.1.jar",
+      "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/untagged-b9eaa97e075e4ab457da/mod-0441.jar",
+      "sha1": "7e1b7b1fcf2e0e7dd55f4131b2d49b8df1fc0a2f"
     }
   ]
 }
