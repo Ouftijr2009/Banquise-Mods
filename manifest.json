@@ -3017,36 +3017,30 @@
     }
   ],
   "minimum_launcher_version": "1.0.13",
-  "client_packs": {
-    "mode": "preserve"
-  },
   "modpack": {
     "name": "Prominence™ II Hasturian Era",
     "version": "v4.1.0",
     "bundles": [
       {
         "file": "modpack-part-0000.zip",
-        "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/modpack-7447956a9e164cec8490577c64eeaeca/modpack-part-0000.zip",
-        "sha1": "842571a49585d2f7e718e200da38ea679f7613ee"
+        "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/modpack-25bfac8479a8479db95ec597c0492669/modpack-part-0000.zip",
+        "sha1": "dd5e17bad91069f7877e789681e09a47e24d3efa"
       },
       {
         "file": "modpack-part-0001.zip",
-        "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/modpack-7447956a9e164cec8490577c64eeaeca/modpack-part-0001.zip",
-        "sha1": "7c1118768b2bc7a66aab559948f93672e9f95e18"
+        "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/modpack-25bfac8479a8479db95ec597c0492669/modpack-part-0001.zip",
+        "sha1": "2f5c1811054a358ee0259835ac5f4a95ee604f23"
       },
       {
         "file": "modpack-part-0002.zip",
-        "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/modpack-7447956a9e164cec8490577c64eeaeca/modpack-part-0002.zip",
-        "sha1": "271f6dfb07c3856ea5c3f0ef29e1327f362d68e4"
+        "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/modpack-25bfac8479a8479db95ec597c0492669/modpack-part-0002.zip",
+        "sha1": "896dbfd4a2a8d51e6504d3233652e6440b9f7d78"
       },
       {
         "file": "modpack-part-0003.zip",
-        "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/modpack-7447956a9e164cec8490577c64eeaeca/modpack-part-0003.zip",
-        "sha1": "28ae6ee7f8ae588d88ca94eb49e6988dcccd171a"
+        "url": "https://github.com/Ouftijr2009/Banquise-Mods/releases/download/modpack-25bfac8479a8479db95ec597c0492669/modpack-part-0003.zip",
+        "sha1": "bd2a63b6e289f7f3fa6436408b0750f7f10f802a"
       }
-    ],
-    "client_packs": {
-      "mode": "preserve"
-    }
+    ]
   }
 }
